@@ -10,7 +10,13 @@ All team members are automatically enrolled in a workplace pension (unless you o
 
 ## Holidays
 
-We have 28 days holiday (inclusive of bank holidays in the UK) per year (starting in January through end of December) plus we also shut the office down during Christmas and don't count these days against your allocation. You'll accumulate holidays at the rate specified in your contract so if you join mid-way through the year, keep that in mind. 
+We have 28 days holiday (inclusive of bank holidays in the UK) per year (starting in January through December) plus we also shut the office down during Christmas and don't count these days against your allocation. You'll accumulate holidays at the rate specified in your contract so if you join mid-way through the year, keep that in mind. 
+
+You need to request time off at leaset two weeks in advance by sending an email to holidays@twotwentyseven.com. You shouldn't book any holidays until you have approval. We rarely, if ever, turn away holiday requests but please be sensible and look ahead as we need to ensure we don't have an entire team gone. Also, because we work on project schedules, it's really helpful if we can get some idea of your longer holidays so we can make sure plan around this and extend project timelines so we don't need to rush through work. End of the day, we want you to take time off so help us, help you by letting us know when you need some R&R. 
+
+## Reduced hours
+
+Starting in January 2021, we began a trial to reduce our working day from 8 hours plus 1 hour lunch to 7 hours plus hour lunch. This was initially introduced to help people disconnect and better balance their work and personal life in the midst of a pandemic and lockdown. We're still running this trial and are curious how it works in a hybrid model. We may change back or alter this depending on feedback and company performance. 
 
 ## Free lunches
 
@@ -27,5 +33,17 @@ We appreciate the hard-work our team puts in and while we endeavour to say thank
 ## Gym contributions
 
 We like to stay healthy and encourage our team to get fit. Outside of free credits we get from all the gyms we work with, we also contribute to gym memberships. If you would like to avail this, please send an email to Eric and Nathan and we'll look at the options. Generally, we contribute up to £20/month which you'd take as a taxable benefit or we also have a gym nearby the office that we can enroll you directly. 
+
+## Home office setup
+
+We get all of our team members a laptop they can bring home. We also offer team members a sweet screen, dongle, and some stationary to help you settle in at home and be your most productive self. 
+
+## Medical
+
+We're really lucky to be in the UK which has the wonderful National Health Service. We've experimented with private insurance in the past but feedback has generally been negative and/or no one uses it. End of the day, we think the NHS provides an excellent service that you're already paying for with taxes so why not utilise it. 
+
+## Bereavement Leave
+
+A particularly challenging one to talk about but nonetheless worth discussing. If you lose someone in your family whom you are close to, please communicate this at the earliest to your team lead and we'll talk about what we can do. Sometimes people need a little time off and others prefer a distraction. Either way, we're here to talk and discuss options. 
 
 
