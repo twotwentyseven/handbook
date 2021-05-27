@@ -1,16 +1,14 @@
-# Basecamp Code of Conduct
+# twotwentyseven's Code of Conduct
 
-## Our Pledge
-
-In the interest of fostering an inclusive and safe workplace, Basecamp pledges to be a harassment- and discrimination-free space for everyone, regardless of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.
+We want to build an inclusive team that is bound by their love of the web and tech who are passionate about launching awesome sites – remember that from our founding, we've believed in the fundamental practice of building strong relationships with each other and those we work with. Considering this, it's important we recognise that to build this sort of team, we are free from discrimination of any kind. 
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a healthy environment include:
+Examples of behavior that contributes to building strong relationships grounded in respect:
 
-- Using welcoming and inclusive language
-- Being respectful and empathetic when it comes to differing viewpoints and experiences
-- Gracefully accepting and offering constructive criticism and feedback
+- Welcome others: Get to know each other and ask each other questions that aren't just about the task
+- Seek understanding: You may disagree but don't rush to judgement and instead understand why someone did that or thinks something would work best
+- Feedback for you and others: If you give feedback, frame it in a helpful way and if you're getting feedback, listen and consider it carefully
 
 Examples of unacceptable behavior by employees include:
 
@@ -21,18 +19,15 @@ Examples of unacceptable behavior by employees include:
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Our Responsibilities
-Managers are responsible for upholding these standards. They will be clear and equitable when applying standards of acceptable behavior. They’re required to take appropriate and fair corrective action in response to any instances of unacceptable behavior. If you have questions about the standards above, talk to your manager or to Andrea.
+
+We're all responsible for upholding our code of conduct. 
 
 ## Scope
-This Code of Conduct applies both within Basecamp during work hours and in public spaces when you’re representing Basecamp. Examples of representing Basecamp in a public space include acting as a delegate at an online or offline event like a conference, posting on Basecamp branded social media, or participating in a Basecamp social event outside of work hours.
+
+Our code of conduct applies while doing twotwentyseven work or representing us at any point outside of regular hours. 
 
 ## Enforcement
-If you notice someone acting inappropriately as described in the standards above, you can report it by contacting your manager or Andrea. Or you can complete a [complaint form](https://3.basecamp.com/2914079/buckets/34/documents/2006612007). You may choose to remain anonymous on the complaint form.
 
-All complaints will be reviewed and investigated and will result in a response that is appropriate to the circumstances. Managers are required maintain your confidentiality however you choose to report an incident.
+If you think something's gone wrong, try to address it with the person first but it'a always okay to talk with your team lead if you're unsure about how to proceed. We certainly hope we hire people who wouldn't intentionally try to cause harm and with the increasing shift to digital comms, we can sometimes misinterpret messages so let's all make sure we give each other a chance and seek understanding. If there's still definitely something wrong, then again, seek out support from your team lead. 
 
-After your complaint has been reviewed, investigated, and responded to, Andrea or your manager will inform you of the steps being taken to address the original issue and any disciplinary outcomes.
-
-In addition, all valid complaints about employees will be documented in a permanent file, along with related investigation processes and disciplinary outcomes. Repeated complaints about one employee will result in escalating disciplinary measures, up to and including termination.
-
-Managers who do not follow or enforce the Code of Conduct in good faith will be subject to corrective action as well.
+If the issue is potentially more serious, we will follow the procedures as outlined in the [disciplinary procedures](https://github.com/twotwentyseven/handbook/blob/master/disciplinary-procedure.md)

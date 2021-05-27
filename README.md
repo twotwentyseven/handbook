@@ -23,3 +23,5 @@
 * [Levels for Developers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-developers.md)
 * [Levels for Designers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-designers.md)
 * [Levels for Project Managers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-project-managers.md)
+* [Disciplinary Procedure](https://github.com/twotwentyseven/handbook/blob/master/disciplinary-procedure.md)
+* [Grievance Procedure](https://github.com/twotwentyseven/handbook/blob/master/grievance-procedure.md))
