@@ -1,33 +1,33 @@
 # How We Work
 
-## Cycles
+## Projects
 
-We work in 6-week or 8-week cycles at Basecamp. There are typically six cycles to a year. Two are 8-week cycles, during Summer Hours, and the rest 6-week cycles. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
+We're a creative digital agency that works with brands to get them online for the world. This means most everything we do is in the form of a project which may include starting from creating branding through designing a site to building it, launching it and getting into the wonderful world of email communication through CRM programmes. 
 
-The idea is not that everything we ever decide to work on has to take six or eight weeks or can be completed in that time. But rather that we think about how we can break big projects into smaller ones that can be done in that amount of time, and that we bundle smaller things into a presentable scope of work that can be discussed.
+We outline everything we expect in a project life cycle in our [project playbook](https://docs.google.com/spreadsheets/d/1szIUeI1UnClNAlaPNYG1Tc_0pREFpkLY2HDiIpv_Psc/edit?usp=sharing). You don't need to memorise this but it's important you at least understand how we work in any phase that your invlved in. You may also want to take a sneak peak at the phase before and after to get a taste of what's happened before the project has come to you. 
 
-This is particularly important for the product teams. Here we like to designate the work we take on with the scope in mind up front. We think of a small feature as a 1-weeker or a big feature as a 6-weeker (or anything in between). This designation helps us avoid a 1-weeker snowballing into a 4-weeker, just because people keep piling on more scope. Work is thus limited by a budget, and the budget focuses our discussion about what’s reasonable and what’s not. When a project starts slipping on its budget, the first approach should be to judo the problem and scope hammer the domain – and certainly not make it up by working more hours! Most things we work on can fit within six normal weeks or eight summer weeks.
-
-## Cooldown
-
-In between each cycle, we spend two weeks cooling down. That’s the time to deal with bugs or smaller issues that come up, write up what we worked on, and figure out what we should tackle next. It’s sometimes tempting to simply extend the cycles into the cooldown period to fit in more work. But the goal is to resist this temptation. Yes, sometimes a little spill-over will happen, but it’s helpful to think about the end of the normal cycle as "pencils down". That means that by week 4 of a normal cycle, we should be winding down, getting ready to launch, make sure QA is lined up, and all the other work that happens during and after the launch of new projects.
+Projects have these generaly lifecyles:
+1. Planning/scoping, discovery and digital strategy: This is when we try to understand the client's needs, what they like look and feel wise, what sorts of customer journeys we need to consider and the principles by which we will approach designing the full site. If a brand needs branding, we'll insert a phase for that just after this. 
+2. Design: We'll first work on wireframes and a couple look and feel options for the site. We then jump into designing the full site. 
+3. Design feedback: We seprate our feedback into it's own phase to give it dedicated time. We used to have it all in a single design phase but we felt this sometimes meant design never ended. This gives feedback a finite window and helps us keep the projects moving. The client gets a couple rounds to feedback before we get final approval. We try to communicate this means not much can change once we are in build but there's a feedback round after the build as we recognise that sometimes what was planned flat in Sketch doesn't always translate perfectly when it's dynamic so tweaks later on are inevitably needed. 
+4. Build: Developers then take those approved design and build it out on Shopify or Laravel/Nova. Our developers test as they build and then conduct a full round of functional testing before a client ever sees a site. The goal is zero client reported bugs!
+5. Build feedback: Clients get the site and give us a consolidated round of feedback. We recognise that we'll do most feedback now but always understand there will be a few tweaks after this. 
+6. Launch: We always operate in launch windows to make sure we don't get stressed and can take care of any final last little tweaks. But then it's ready to showcase our work and the brand to the world. 
 
 
 ## Communication
 
-It’s hard to keep up on what everyone is doing and what it means, if you just watch the stream of latest activity scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief mechanisms for keeping everyone in the loop about the work that’s going on.
+We use Slack and Teamflow for all internal communication. We have made a concsicious choise not to have clients on Slack. Therefore, all client comms happen in a weekly status we keep during projects or email. The only reason we use email internally is to request holiday, confirm pay rises, position changes or other stuff we need a formal written record for. 
 
-First, there’s the daily question of What did you work on today?, which supplies the nitty gritty details, but as a personal narrative. They’re a great conversation starter if you see someone working on something you either care about or want to learn more about. Please do use them as such! You’re obliged to answer this question at least twice a week when you’re not out (or on team OMG).
+A few questions to consider so we have effective communication:
 
-Second, there’s the weekly question of What will you be working on this week?, which details your intentions for the coming week. Everyone except team OMG is obliged to answer this question when they’re not out.
+1. How is what I'm about to communicate best communicated?
 
-Third, there are the heartbeats. These are the team versions of What did you work on this cycle? This is where we summarize and celebrate the work that’s been done. Every team lead is obliged to write, or designate someone on the team to write, this account one week after a cycle has ended.
+- If it's a quick question that doesn't need an immediate answer, go for Slack. Slack is asychronous meaning someone will reply when they can.
+- If it needs a discussion or is urgent, chat in person or call with one of our many tools
+- If there's a chance what you're saying is controversial or could be misinterpreted, chat in person or call with one of our many tools
 
-Fourth, and finally, there are the kickoffs. These are the team version of What are you going to work on next cycle? This is where the plan for the coming six or eight weeks is presented. Every team lead is obliged to write, or designate someone on the team to write, this account before the start of the new cycle (again, OMG exempt if there are no big new initiatives kicking off).
-
-These mechanisms work together to free individuals and teams to run their days and cycles with confidence and independence. We have six opportunities per year to make big decisions about what to work on, and the rest of the time should chiefly be spent carrying out those short-term plans. By having clear expectations for communication, it’s easier for everyone to build trust in where we’re going and why.
-
-All these questions and write-ups will be posted in the What Works project for the current year.
+2. 
 
 ## Pitches
 

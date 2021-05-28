@@ -1,65 +1,66 @@
 # Making a Career
 
-The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google, it’s [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Basecamp, it’s over five years as of 2019. That’s something to be proud of and something to ensure endures. When you work at Basecamp, it should absolutely be feasible to think about this as the place for making a life-long career.
+Agencies can sometimes be a bit too transient and we're doing everything we can to change that. There are a few key ideas we pursue in an effort to keep the talented people on our team:
+
+1. Autonomy - we make sure we give people space and time to think and do what they believe is best. We've definitely got some opinions about how we like to do things but we balance this will democratically allowing teams to make decisions, too. 
+
+2. Belonging - This is a familiar one if you've read other parts of this handbook but we want people to feel a part of our team. We have regular socials, recognise good work, and get people together regularly to collaborating brainstorm problems. When you join twotwentyseven, you're joining a team of people who enjoy working together and being a part of the team. 
+
+3. Competency - It feels great to see a problem and know how to fix it... and if you can't, it's also great to know you have people and tools around you to help you build up the competencies to eventually be able to solve it. 
+
+By focusing on the ABCs above and also being fair with the below, we think we've got a formulae to build a happy, long-lasting team. 
 
 ## Mastery & Titles
 
-Advancing your career at Basecamp doesn’t mean giving up on your craft. Whether you work in programming, design, ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important since we’re a relatively small company with just two layers of managerial cake: executives and team managers. And both the [executives and managers](https://github.com/basecamp/handbook/blob/master/managers.md#executive-manager-and-individual-responsibilities) still spend the majority of their time doing actual product work!
+We want our team to grow with us both in our reach but in your skills and understandings. Therefore, we outline clearly what we expect at each level for each team and offer support in helping you set goals to achieve this. We recognise that moving up generally means you become better and more efficient at what you do but it also involves challenging you more so we gradually add in more complexity and ask you to tackle more challenging problems – it keeps it interesting and helps us achieve our never ending mission of solving problems other people would rather not. 
 
-Within each of our job functions, we’ve mapped our trajectory of mastery to five different levels. That title structure is shared amongst all departments, but the particulars of what characterizes one level from another will of course be different. Here’s an example of the titles for programming:
+Within each role, we have outlined five levels which all boil down to:
 
-* Junior Programmer
-* Programmer
-* Senior Programmer
-* Lead Programmer
-* Principal Programmer
+* Junior 
+* Mid-weight
+* Senior
+* Team Lead
+* Head/director
 
-While this is how we recognize mastery, it’s by no means an expectation that everyone will start as a junior and end up as a principal. Basecamp needs people and perspectives from all levels of skill. And for those who do end up progressing all the way through this path, it may well be a journey of many, many years, if not a decade+.
+While it's important we help each person grow, we recognise that everyone learns at a different rate and also has different ambitions. Therefore, while each level will give an indication of how long we would expect you'd need to work commercially in that level, it's for reference sake. We know some people who started as a junior and moved up to senior in two years. For others, that may take more... Also, some may want to take on more responsibility and manage a team while others would prefer to do their own thing. The beauty of our system is that this is all baked into our appraisal programme so we'll have regular conversations about how you're feeling, what skills or understandings you're trying to develop and generally where you ambitions lie so we can offer the support we can to help you achieve that. 
 
-But these titles make it clear to everyone where someone is in their career progression at Basecamp. Note that these titles are about a particular role _at Basecamp_. Someone may well have been a "Senior Designer" somewhere else with a different assessment criteria and a different workflow, and then still start at Basecamp as a "Designer". We recognize mastery and titles at Basecamp for the work done at Basecamp.
+View the levels of each team:
 
-Day to day, though, these titles aren’t really much of a factor. It’s not like they’re printed on your HELLO MY NAME IS sticker at the meetups (not that we have those anyway!). But they do give newcomers another way of orienting themselves at the company and it gives everyone a clear way of tracking their personal career progression at Basecamp.
+* [Levels for Developers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-developers.md)
+* [Levels for Designers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-designers.md)
+* [Levels for Project Managers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-project-managers.md)
 
-You can see the specific titles and proficiencies expected for: [Designers](https://github.com/basecamp/handbook/blob/master/titles-for-designers.md), [Ops](https://github.com/basecamp/handbook/blob/master/titles-for-ops.md), [Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md), [Support](https://github.com/basecamp/handbook/blob/master/titles-for-support.md), [Data](https://github.com/basecamp/handbook/blob/master/titles-for-data.md).
+## Appraisal
+
+To support your growth, we have an extensive route-based appraisal programme that you read more about [here](https://github.com/twotwentyseven/handbook/blob/master/appraisal-programme.md). 
+
+## Goal Setting
+
+Our appraisal programme is based on setting SMART goals, thinking about actions, implementing and reflecting. You'll be provided tools to help with this and it's important that you revisit your goals at least once a month, at the start of a project and end of a project so you're able to make progress. 
+
+These goals make connect to your ambitions to move up levels but it may also represent generally other things you're interested in. 
+
+For example, Poppy, one of our project managers, once took a coding course. Not that it would necessarily directly help her move up a level but she thought it would be interesting and allow her to unlock conversations she could then have with the development team. 
 
 ## Pay & Promotions
 
-Basecamp pays at the top 10% for our industry at San Francisco salary levels, regardless of where an employee lives. The comparison data is provided by a company called Radford that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well. Because we don’t pay bonuses, we match our base compensation to the base + bonus of our peer group.
+We pay based on levels which primarily relate to your ability to work autonously with key skills and understandings in an efficient and effective manner. 
 
-The Radford data is reviewed once per year at the end of November. If it’s warranted, that is if the market rates in the top 10% have gone up, we’ll increase pay on January 1st to follow suit. We don’t decrease pay, even if the market rates may have dropped. If that happens, we’ll hold them steady until they come up again.
+Each level is broken down into pay bands. When you first start, we'll determine your level and payband within it by reviewing your self-assessment, test, experience, interview and references. We'll offer what we think is fair while trying to meet your needs. 
 
-In addition to raises based on Radford market data, we’ve also in the past given raises in excess of those based on core price index inflation numbers, if the market didn’t move upward. (This is not a guaranteed practice.)
-
-Everyone in the same role at the same level is paid the same at Basecamp.
-
-When someone gets a promotion, that goes from one level to the next, they’ll get a corresponding pay raise effective on their next pay cycle.
+Pay is always tricky and while we do our best to be transparent, we also recognise that we are never going to be the Amazon of the world in what we can offer. That being said, while we know pay is an important factor in job satisfaction, we also think there are other keys to happiness that we cover including offering clear opportunities for professional growth, a team who works well, a stimulating environment of problem-solving and finally by taking on clients that are diverse and always present something new and fun to keep us all engaged. 
 
 ## Performance Feedback
 
-Twice a year, Basecamp employees receive formal feedback on their work performance.
+We are always providing feedback - don't always expect us to schedule a formal "review" because you can expect to be talking about your code/designs/projects and getting feedback regularly. Afterall, regular feedback is a lot more important than waiting to get it officially once or twice a year. That being said, team leads will catch up you roughly monthly to discuss how your goals are progressing.  
 
-### Annual 360 Surveys
-During the month of your anniversary, you’ll participate in a 360 review process. We stagger these surveys by anniversary month to cut down on the administrative workload that would happen if we did them all at one time.
 
-You’ll receive a request during your anniversary month asking you for the names of some peers you want to receive feedback from. Those people will receive a short survey (<10 questions) which asks them about various aspects of working with you. You’ll also receive feedback from your manager. If you have any direct reports, they’ll be asked to complete a survey too, reviewing your management practices. Finally you’ll complete a self-evaluation which asks about your overall feelings about your day-to-day work, your long-term goals, and your satisfaction with how the company is being run.
+## 1:1s
 
-Once all your surveys have been completed, the results will be compiled in an easy-to-read report. You’ll receive that report which consists of verbatim feedback from each source, lifted directly from the surveys for clarity. Your manager will also receive a copy of your report. Then your manager will meet 1:1 with you to review the report. If your survey results suggest you need to do something differently, your manager will raise that during your 1:1 and help you take steps with deadlines to address it.
+While you can expect to have quite regular 1:1 with your team lead, you'll chat with Eric or Nathan at least once anually where we'll generally talk about:
+- your daily work schedule and load
+- your overall happiness
+- your relationships with your team, team lead, and company
+- your thoughts about professional growth and anything else we can do to help
 
-When you’re asked to complete a survey for one of your coworkers, please try to do so within a week. They shouldn’t take more than 30 minutes. You won’t be asked to do more than 5 peer surveys in a year, so please take care with the ones you are asked to complete!
-
-All 360 surveys consist of open-ended questions, as opposed to a 1 - 5 scoring scale. Answering this way takes more thought and time, but it results in a much more useful form of feedback! Your answers as a feedback-giver are *never anonymous*, however we offer an emergency confidential-to-Andrea option if you’re truly uncomfortable sharing your thoughts directly with the person you’re reviewing.
-
-### Manager 1:1s
-Once a year, you’ll meet with your manager for a 1:1 session. It’s up to each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the same process for every team member. Managers should have a conversation with you about:
-- your daily work content and load
-- your overall work satisfaction
-- your relationships with your team, manager, and company
-- your thoughts about personal growth and how those impact your work at Basecamp
-
-This is a two-way street! You should be offering your thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in these areas. Managers will document your 1:1s along with any action items with deadlines that come out of the meeting. Your Manager 1:1 takes place 6 months after your Annual 360.
-
-### Performance Plans
-If your feedback relationship with your manager and your team is where it should be, nothing too surprising should be coming out of either your Annual 360 or your Annual 1:1! Managers should be addressing performance successes and problems in the moment, throughout the year, not waiting for one of these opportunities. If some unforeseen negative feedback does come out during your 360 or 1:1, your manager could decide to initiate our formal [performance plan process](https://github.com/basecamp/handbook/blob/master/performance-plans.md#performance-plan-process).
-
-### Feedback on Feedback
-Both processes described above are constantly evolving (or at least they should be!). Great feedback opportunities can only be designed so much — it takes continual feedback on the process from everyone to keep it useful. If you think any aspect of the process described here could be more efficient, more practical, and result in better actionable feedback for you, please let Andrea know!
+Keep in mind, it's just as much a time for Eric and Nathan to ask questions and feedback but we also equally want to hear about what we can do improve, too. 

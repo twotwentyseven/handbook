@@ -1,11 +1,10 @@
 # Frequently Asked Questions
 
-## Where should I report a bug?
+## How do I request holiday?
 
-We are actively fixing feature-related bugs for Basecamp 3 and HEY.
+Send an email at least two weeks before you want holiday to holidays@twotwentyseven.com. If you're intending to take off quite a bit of time (i.e. 1-2 weeks) then please try to be sensible and request this at least a month in advance as it helps us get more time on a project so we don't need to rush it. 
 
-* If you find a bug in Basecamp 3, please add a new todo to the Awaiting Triage to-do list in [BC3: Bugs](https://3.basecamp.com/2914079/buckets/564667/todosets/80120962). It’s a good idea to try to do a quick search first to see if your bug has already been reported, but better to report something twice than not at all.
+## How much can I flex my hours?
 
-* If you find a bug related to HEY, add to the Triage to-do list in [HEY: The Issues (Bugs)](https://3.basecamp.com/2914079/buckets/17269660/todolists/2705482276). Tag in Michael so that he can check if this is already reported or a new case. There are a few exceptions for spam and content processing related bugs (review [this internal writeup](https://3.basecamp.com/2914079/buckets/17308762/messages/2801019566) for more instructions).
+We ask everyone work a majority of their hours when most everyone else is online. Our office hours when clients can expect to get a hold of us are from 9AM to 6PM so try to get it around this. Something like 8-5 would be okay but probably not something like 12-10PM. 
 
-We do fix any security or privacy related bugs for all products, including our legacy products. If you think you’ve found one, flag to SIP by mentioning them in the relevant HelpScout case (if applicable) or raising in their Campfire.

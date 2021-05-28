@@ -10,8 +10,7 @@ Keep in mind that you should be able to achieve these things well, repeatedly. T
 * May start to take on smaller projects with significant support. 
 * Lots of questions and guidance are needed - in an almost constant state of learning. 
 * Mostly follows processes with some slip-ups but recognises those.
-Usually less than 1 year experience as a professional project manager. 
- 
+* Usually less than 1 year experience as a professional project manager. 
 
 ## Mid-Weight Project Manager
 
@@ -22,7 +21,6 @@ Usually less than 1 year experience as a professional project manager.
 * Follows processes and may offer suggestions to improve these. 
 * Usually 1-2 years experience as a professional project manager. 
 
-
 ## Senior Project Manager
 
 * Manages projects autonomously with efficient and proactive updates. 
@@ -31,18 +29,18 @@ Usually less than 1 year experience as a professional project manager.
 * Interalises our processes, using these almost intuitively and offers suggestions to improve these.
 * Usually 3-4 years of experience as a professional project manager. 
 
-
-
-## Head of Project
+## Head of Projects
 
 * Effectively oversees/manages the company’s portfolio of projects ensuring there is clear, relevant communication about project status across all teams. 
 * At ease both internally and in front of clients during pitches, updates or follow-ups. 
-* Helps set and maintain professional standards for the entire organization.
+* Helps set and maintain professional standards for the project management team.
 * Owns processes and updates regularly with team input. 
-* Usually 5-8 years experience as a professional project manager. 
-
-
+* Usually 5-8 years experience as a professional project manager.
 
 ## Director of Operations
 
-* ...
+* Effectively manages the day to day operations across all teams including frontend, backend, design, and project management. 
+* Confidentely represents the company in a variety of familiar and unfamiliar siutations with clients during pitches, updates or follow-ups. 
+* Helps set and maintain professional standards for the entire organisation. 
+* Develops process and ensures accountability of process across all teams.
+* Usually at least 8 years as a professional project manager and 3-5 years as a Head of Projects of equivalent level. 

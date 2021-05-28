@@ -1,33 +1,36 @@
 # What We Stand For
 
-## Values
+We tell clients that we are proud to design, build and launch website that give them a competitive edge. 
 
-Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything’s harder when we all believe different things about what’s important to *us*, our company.
+The word choice of that simple statement is essential and much has to do with pride – we will do everything we can to produce work which we are happy to put our name on. So it really is about that feeling you get when you step back and say, "Wow, we created that..." feels great, right?
 
-Key values:
+## Founding Prinicples
 
-* **Be Straightforward.** Whenever we speak - internally or externally - we should speak plainly and clearly. Watch out for lingo, assumptions, exaggeration, or other things that get in the way of a straightforward explanation. This doesn’t mean we strip the poetry and personal expression from our language, but it’s got to make sense. With the exception of deep technical discussions, anyone who reads what we collectively write should simply get it without further explanation required. Don’t use eight words when five will do.
+When we introduced twotwentyseven, we say it was founded based on two principles: we're problem solvers and we build long-lasting relationships. We hope and expect every team member to carry the torch on these whether that's in a client call, a project meeting, or selling us in a pitch. If we ever falter, raise your hand and call us on it – it's all of our responsibility to keep these in our DNA. 
 
-* **Be fair and do the right thing.** What’s fair? What’s the right thing? We all have to use our best judgment, and everyone’s judgment varies, but a good rule of thumb is "what would you do for a friend or a neighbor if they asked for help?" An example might be providing a refund even if it’s a little outside the refund window. Or being someone who says ’Sure we can do that for you’ when a customer expected you to say ’sorry, we can’t.’ If the request is reasonable, grant it. At the same time, saying no is sometimes the right thing! If that’s the case, don’t feel badly about it.
+## Our Values
 
-* **Levelheadedness**. We should be calm, considered, and thoughtful in our dealings with each other and the world at large. We don’t act out of spite, we don’t rush to judgment, we don’t jump to conclusions. If someone disagrees with us or attacks us we listen, we think, and we respond calmly and clearly - directly addressing the idea or the situation, not the personality or the pressure.
+We could probably come up with a list of a dozen values but ultimately we've settled on these core six that we try to focus on daily:
 
-* **Generosity.** Generosity is a wonderful virtue. Being generous is surprising someone on the other end with goodwill and asking for nothing in return. It could be time, attention, or treasure - we give what we’re expected to, and then some.
+- Work-life balance: Get home on time and enjoy (at least) 31 holidays a year
+- Autonomy: Freedom & trust to do your job
+- Do it right & do it well: We do right for our clients and team the first time
+- Fairness: Treating our team and clients with respect
+- Time to play: You get time to try and learn new things
+- Feedback to grow: Getting regular feedback to grow professionally
 
-* **Independence.** This one’s a bit of a contradiction. After speaking about shared values, here’s one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we’ve always done things our way. We don’t look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that *we* think are right, not that *they* think are right.
+## Our Clients
 
-## Helping small businesses deal with growth
+We work with big companies and small. We work with start-ups and ones that have been going for many years. 
 
-Growth happens.
+Each of these companies come to us because we sell ourselves as a team who cares and wants to help them evolve. 
 
-Growth makes a lot of things more difficult - people don’t know each other as well, information is harder to find, stuff gets lost, communication becomes muddled, it becomes harder to stay on top of everything that’s going on, etc. What worked for 3 or 5 people, doesn’t work as well at 6 or 8. And certainly not 10, 15, 25 or more.
+It's fundamentally important we remember this and consider that everything any of us does or says doesn't just represent you but it represents everyone at twotwentyseven. So remember our values in any conversation you have and do us proud in any client conversation you have. 
 
-At some point, growing small businesses need a system, something to stay organized, something to grow with so they don’t lose control of themselves along the way. Company-wide communication, team-based communication, and project work needs a home.
+## Our Team
 
-Most companies cobble together a latticework of separate tools as they grow, but the weight of disorganization and lack of order collapses and eventually catches up to them. Email doesn’t cut it anymore. More meetings aren’t going to solve the problem. And increasingly, incessant chatting creates exponentially more communication without the necessary structure and context to make it useful.
+We work hard to recruit the nicest, smartest, humble people we can find. We love everyone in our team and hope you do, too! 
 
-This is where Basecamp comes in.
+We try to make sure everyone can play a part in the recruitment process and usually will invite candidates to meet the team on their final interview if we feel they have a chance to get offered the position. At that time, be honest about your experience and help us find the right people for the team. 
 
-Basecamp helps growing companies organize their projects, internal communications, and client work *in one place* so they have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone is accountable.
-
-This is what we do here. It takes many forms, and we’re always working towards a more perfect system, but we help groups of people get their shit together - and keep it together - so they can do their best work with their team, in their company, for their own customers.
+If you ever feel we can do something to improve the team's happiness, don't hesitate to talk with a team lead, Eric or Nathan. 

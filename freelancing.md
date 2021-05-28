@@ -10,13 +10,20 @@ Here's a few examples of what's okay vs definitely not okay
 
 ## Okay
 
-1. ...
+1. Doing some extra work on the weekend for a friend or a small business you're trying to help.
+2. Leading an online or in-person workshop to help teach others how to code, design or project manage.
+3. Something totally unrelated to your day job... have fun but just make sure you're not tired during twotwentyseven time.
+4. Serve as an advisor for another company as long as what they do doesn't compete with what we do.
+5. Volunteering... yay! Do it. Paul teaches code as his local school. Help build the future :-)
 
-## Not okay
 
-1. ...
+## Not Okay
 
-## In general
+1. Taking calls or doing the extra work during twotwentyseven time – this also isn't a good excuse to "flex" time either. 
+2. Doing work which competes with what we do. This is somewhat a gray area if you're doing development work but we also understand you may take on slightly differnet clients than we may so working on smaller gigs that we wouldn't otherwise be able to cater for could be acceptable. 
+3. Taking on work that distracts you or consumes you 
+
+## In General
 
 So while we support it, the short story is be sensible. 
 
