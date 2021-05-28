@@ -13,7 +13,6 @@ Keep in mind that you should be able to achieve these things well, repeatedly. T
 * Occasional issues following processes and/or coding standards.
 * Usually less than 1-2 years experience being a professional developer. 
 
-
 ## Mid-Weight Developer
 
 * Works chiefly on larger projects with clear briefings and tasks. 
@@ -30,7 +29,6 @@ Keep in mind that you should be able to achieve these things well, repeatedly. T
 * Can provide material feedback on the work of junior/mid developers.
 * Deep expertise within the team’s core languages/frameworks with basic but with improving proficiency in others. 
 * Usually at least 3-4 years of experience being a professional developer.
-
 
 ## Frontend/Backend Team Lead
 

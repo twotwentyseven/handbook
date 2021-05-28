@@ -42,5 +42,3 @@ Rich has been with twotwentyseven since 2018 and moved into a team lead role in 
 
 He's chiefly responsible for:
 * Anything you see in the [team lead responsibilities](https://github.com/twotwentyseven/handbook/blob/master/team-lead-responsibilities.md). 
-
-
