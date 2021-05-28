@@ -12,12 +12,12 @@ Having given the employee reasonable time to prepare their case, a formal discip
 
 Following the hearing, the Company will decide whether or not disciplinary action is justified and, if so, the employee will be informed in writing of the Company’s decision in accordance with the stages set out below and notified of his or her right to appeal against that decision.  It should be noted that an employee's behaviour is not looked at in isolation but each incident of misconduct is regarded cumulatively with any previous occurrences.
 
-## Stage 1: Written warning
+## Stage 1: Written Warning
 
 The employee will be given a formal WRITTEN WARNING.  He or she will be advised of the reason for the warning, how they need to improve their conduct or performance, the timescale over which the improvement is to be achieved, that the warning is the first stage of the formal disciplinary procedure and the likely consequences if the terms of the warning are not complied with.  The written warning will be recorded but nullified after six months, subject to satisfactory conduct and performance.
 
 
-## Stage 2: Final written warning
+## Stage 2: Final Written Warning
 
 Failure to improve performance in response to the procedure so far, a repeat of misconduct for which a warning has previously been issued, or a first instance of serious misconduct or serious poor performance, will result in a FINAL WRITTEN WARNING being issued.  This will set out the nature of the misconduct or poor performance, how he or she needs to improve their conduct or performance, the timescale over which the improvement is to be achieved and warn that dismissal will probably result if the terms of the warning are not complied with.  This final written warning will be recorded but nullified after twelve months, subject to satisfactory conduct and performance.
 
@@ -25,7 +25,7 @@ Failure to improve performance in response to the procedure so far, a repeat of 
 
 Failure to meet the requirements set out in the final written warning will normally lead to DISMISSAL with appropriate notice.  A decision of this kind will only be made after the fullest possible investigation.  Dismissal can be authorised only by a senior manager or a Director.  The employee will be informed of the reasons for dismissal, the appropriate period of notice, the date on which his or her employment will terminate and how the employee can appeal against the dismissal decision.
 
-## Gross misconduct
+## Gross Misconduct
 
 Offences under this heading are so serious that an employee who commits them will normally be summarily dismissed.  In such cases, the Company reserves the right to dismiss without notice of termination or payment in lieu of notice.  Examples of gross misconduct include:
 
@@ -54,7 +54,7 @@ At the appeal hearing, the employee will again be given the chance to state his 
 
 Following the appeal hearing, the employee will be informed in writing of the results of the hearing.  The Company’s decision on an appeal will be final.
  
-## Employees with short service
+## Employees with Short Service
 
 This disciplinary procedure does not apply to any employee who has been employed by the Company for less than one year where that employee commenced employment with the Company on or before 5 April 2012.
 

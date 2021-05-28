@@ -1,10 +1,10 @@
 # Where We Work
 
-## From our office
+## From Our Office
 
 We're based out of West London in Westbourne Grove. We've got a lovely space and workstations for everyone on the team alongside some nice little amenities like a fridge stocked with beverages, all you can eat Allplants (insider joke you'll soon learn about), an espresso machine and some of the standards you'd expect in any English kitchen. During the pandemic, we closed down our office but from summer 2021 are slowly returning. We'll eventually work three days a week from this space with the other days at a place of your choosing (exceptions apply, see working from home below). There are the occassional times when you may need to come in more often and, of course, you can always voluntarily work out of the office more if that's where you work better. 
 
-## From home
+## From Home
 
 We think that some things can be better done at home (and others better in the office) so we give the option for team members to work from home twice a week. We'll get you a nice screen to give you the extra real estate to work, too. 
 

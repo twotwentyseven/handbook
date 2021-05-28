@@ -1,6 +1,6 @@
 # Introduction to twotwentyseven
 
-## twotwentyseven's story
+## twotwentyseven's Story
 
 From a one man show in 2010 to a multi-discpline growing team of a dozen in 2021, twotwentyseven has grown a lot (especially in the past couple of years) but there are a few things which remain constant:
 
@@ -10,7 +10,7 @@ From a one man show in 2010 to a multi-discpline growing team of a dozen in 2021
 
 By focusing on relationships and constantly innovating, we believe we've positioned ourselves well for future growth!
 
-## Our expertise
+## Our Expertise
 
 We're always trying to add new tools to our arsenal but there are few things we do well:
 
@@ -20,7 +20,7 @@ We're always trying to add new tools to our arsenal but there are few things we 
 
 - CodexFit: Over the years, twotwentyseven has built at least a dozen bespoke booking platforms for gyms. They're a big undertaking, complex and need maintenance - there had to be a better way to get gyms a flexible platform without building every single one custom. We decided in 2019 to build a whitelabled platform that we could license and that's what brought us to CodexFit. We genuinely think it's one of the most flexible platforms out there and we keep onboarding new clients who back up that claim. 
 
-## Our team
+## Our Team
 
 We've ebbed and flow in terms of size and roles on our team over the years.
 

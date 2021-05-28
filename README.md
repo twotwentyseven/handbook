@@ -1,4 +1,4 @@
-# twotwentyseven team handbook
+# twotwentyseven Team Handbook
 
 We existed for over 10 years without a handbook. But, as we grow we realised that we had files all over the place and it was creating for an inconsistent onboarding experience. That sort of meant if you were a chatty Kathy that you'd probably know more compared to a silent Sean. 
 
@@ -10,7 +10,7 @@ If you ever have any feedback, get in touch with Eric and we'll do our best to g
 
 
 ## Sections
-* [twotwenytseven introduction](https://github.com/twotwentyseven/handbook/blob/master/intro-twotwentyseven.md)
+* [twotwenytseven Introduction](https://github.com/twotwentyseven/handbook/blob/master/intro-twotwentyseven.md)
 * [What We Stand For](https://github.com/twotwentyseven/handbook/blob/master/what-we-stand-for.md)
 * [Code of Conduct](https://github.com/twotwentyseven/handbook/blob/master/code-of-conduct.md)
 * [Who Does What?](https://github.com/twotwentyseven/handbook/blob/master/orgchart.md)
