@@ -12,6 +12,23 @@ You'll also get a company laptop and some equipment to help you get setup for hy
 
 If anything changes with your start date, please let your team lead know, and as always, reach out with questions at any point. 
 
+We expect new people to show up in the office a bit more frequently than everyone else. This is to ensure you have time to meet everyone, integrate and properly learn from others. We'll share this schedule with you in advance, though. 
+
+## Your First Day
+
+We'll get you setup on all our system. This is a bit of a bear but by the time you're done you'll have accounts on everything including:
+- Shopify
+- Gmail/Google Suite
+- Teamwork
+- Resource Guru
+- Sketch
+- 1Password
+- Slack
+- Teamflow
+- Github (if needed)
+
+You'll usually arrive around 10-11AM but then all following days we ask you work roughly the same hours as your team lead. 
+
 ## Your First Month
 
 As a new member of our team, we’ll make sure you have time to get to know everyone, learn our processes and generally get to know the company’s approach. You’ll follow an on-boarding programme, some of which involves autonomous tasks and others you’ll work through collaboratively.  

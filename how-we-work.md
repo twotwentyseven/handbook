@@ -6,7 +6,7 @@ We're a creative digital agency that works with brands to get them online for th
 
 We outline everything we expect in a project life cycle in our [project playbook](https://docs.google.com/spreadsheets/d/1szIUeI1UnClNAlaPNYG1Tc_0pREFpkLY2HDiIpv_Psc/edit?usp=sharing). You don't need to memorise this but it's important you at least understand how we work in any phase that your invlved in. You may also want to take a sneak peak at the phase before and after to get a taste of what's happened before the project has come to you. 
 
-Projects have these generaly lifecyles:
+Projects generally have this lifecyle:
 1. Planning/scoping, discovery and digital strategy: This is when we try to understand the client's needs, what they like look and feel wise, what sorts of customer journeys we need to consider and the principles by which we will approach designing the full site. If a brand needs branding, we'll insert a phase for that just after this. 
 2. Design: We'll first work on wireframes and a couple look and feel options for the site. We then jump into designing the full site. 
 3. Design feedback: We seprate our feedback into it's own phase to give it dedicated time. We used to have it all in a single design phase but we felt this sometimes meant design never ended. This gives feedback a finite window and helps us keep the projects moving. The client gets a couple rounds to feedback before we get final approval. We try to communicate this means not much can change once we are in build but there's a feedback round after the build as we recognise that sometimes what was planned flat in Sketch doesn't always translate perfectly when it's dynamic so tweaks later on are inevitably needed. 

@@ -22,6 +22,8 @@ A new tool we're experimenting with, TeamFlow (referred to as TF) is like having
 
 We use Gmail, Meet, Google Docs, Sheet and Slides. Email is a tool more use for clients but as covered in other parts of this handbook, we use it for formal things like holiday requests and pay rises. We use Meet for all virtual calls. We use docs to brainstorm, sheets to do a dreaded product upload or more fun cost calculation, and slides for when we're pitching or putting together workshops with clients. 
 
+Keep your files in Google Drive. That's especially useful when we need to share things with team members and things don't get lost on a device. 
+
 ## Zendesk
 
 This is our support tool for CodexFit. If you need to use it or support us in serving CodexFit customers, you'll get trained on it. Remember, whenever you use ZenDesk, you're representing twotwentyseven and CodexFit. Be a lovely human being. 
