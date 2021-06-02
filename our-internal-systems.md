@@ -2,7 +2,7 @@
 
 ## Teamwork
 
-This is our project management tool (referred to as TW). We all use this daily anad it's where a project and all of it's tasks live. Developers, designers and projects managers all keep time here. We also use it to bill clients. It's pretty important and something you'll learn right away. 
+This is our project management tool (referred to as TW). We all use this daily and it's where a project and all of it's tasks live. Developers, designers and projects managers all keep time here. We also use it to bill clients. It's pretty important and something you'll learn right away. 
 
 ## Resource Guru
 

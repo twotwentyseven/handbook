@@ -26,7 +26,7 @@ Keep in mind that you should be able to achieve these things well, repeatedly. T
 * Manages projects autonomously with efficient and proactive updates. 
 * Confident in managing both familiar and unfamiliar projects of almost any scope/complexity both in front of clients and internally. 
 * Deep expertise in project management, our processes, and the tools we utilise with the ability to mentor junior/mid-weight PMs.
-* Interalises our processes, using these almost intuitively and offers suggestions to improve these.
+* Internalises our processes, using these almost intuitively and offers suggestions to improve these.
 * Usually 3-4 years of experience as a professional project manager. 
 
 ## Head of Projects
@@ -40,7 +40,7 @@ Keep in mind that you should be able to achieve these things well, repeatedly. T
 ## Director of Operations
 
 * Effectively manages the day to day operations across all teams including frontend, backend, design, and project management. 
-* Confidentely represents the company in a variety of familiar and unfamiliar siutations with clients during pitches, updates or follow-ups. 
+* Confidently represents the company in a variety of familiar and unfamiliar situations with clients during pitches, updates or follow-ups. 
 * Helps set and maintain professional standards for the entire organisation. 
 * Develops process and ensures accountability of process across all teams.
 * Usually at least 8 years as a professional project manager and 3-5 years as a Head of Projects of equivalent level. 

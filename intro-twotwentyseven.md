@@ -2,7 +2,7 @@
 
 ## twotwentyseven's Story
 
-From a one man show in 2010 to a multi-discpline growing team of a dozen in 2021, twotwentyseven has grown a lot (especially in the past couple of years) but there are a few things which remain constant:
+From a one man show in 2010 to a multi-discipline growing team of a dozen in 2021, twotwentyseven has grown a lot (especially in the past couple of years) but there are a few things which remain constant:
 
 - Relationships still underpin everything we do: Nathan worked in quite a few agencies before starting his own and one early observation was that the agency client relationship was often too transactional. He set out to change that by working with clients we could get on board with and support long-term. This mantra also equally applies internally – we're in this together as a team doing great work.  
 
@@ -14,7 +14,7 @@ By focusing on relationships and constantly innovating, we believe we've positio
 
 We're always trying to add new tools to our arsenal but there are few things we do well:
 
-- Ecommerce on Shopify: We've built hundreds of Shopify stores (most totally bespoke). We understand the platform through and through and are able to do lots of things that clients would otherwise be unable to do unless they moved to the spenny version of Shopify called Plus ($2,000/month... ouch). 
+- E-commerce on Shopify: We've built hundreds of Shopify stores (most totally bespoke). We understand the platform through and through and are able to do lots of things that clients would otherwise be unable to do unless they moved to the spenny version of Shopify called Plus ($2,000/month... ouch). 
 
 - Laravel and Nova: If Shopify won't do the trick, we then ask whether we can build something custom using Laravel. It's scalable, secure, and flexible allowing us to do things like build out an international multi-lingual site for Fever-Tree and build complex customer journeys like on Natural Fitness Food. 
 

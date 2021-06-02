@@ -34,7 +34,7 @@ After a project finishes, we generally move out of boards. If that's the case an
 
 ## Process
 
-We love process. It's what keeps us efficient and able to serve such big name brands. We've tried to distill our process into a project playbook covering every phase of a project [here](https://docs.google.com/spreadsheets/d/1mxsi8kfXtp6sJwZoFZxxGOx2mLu6GmprOO36Jleoa9Y/edit?usp=sharing).
+We love process. It's what keeps us efficient and able to serve such big name brands. We've tried to distil our process into a project playbook covering every phase of a project [here](https://docs.google.com/spreadsheets/d/1mxsi8kfXtp6sJwZoFZxxGOx2mLu6GmprOO36Jleoa9Y/edit?usp=sharing).
 
 
 

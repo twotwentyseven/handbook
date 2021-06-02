@@ -2,7 +2,7 @@
 
 ## Our Onboarding Process
 
-twotwentyseven has grown a lot over the past couple of years which has meant welcomeing many new team members. Our processes have grown and changed as a result and we hope you find your onboarding both welcoming and supportive. If you ever have any feedback, don't hold on it! Get in touch with your team lead, Nathan or Eric at any point if there's ever anything we can be doing better. 
+twotwentyseven has grown a lot over the past couple of years which has meant welcoming many new team members. Our processes have grown and changed as a result and we hope you find your onboarding both welcoming and supportive. If you ever have any feedback, don't hold on it! Get in touch with your team lead, Nathan or Eric at any point if there's ever anything we can be doing better. 
 
 ## Before You Arrive
 

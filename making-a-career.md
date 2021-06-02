@@ -44,7 +44,7 @@ For example, Poppy, one of our project managers, once took a coding course. Not 
 
 ## Pay & Promotions
 
-We pay based on levels which primarily relate to your ability to work autonously with key skills and understandings in an efficient and effective manner. 
+We pay based on levels which primarily relate to your ability to work autonomously with key skills and understandings in an efficient and effective manner. 
 
 Each level is broken down into pay bands. When you first start, we'll determine your level and payband within it by reviewing your self-assessment, test, experience, interview and references. We'll offer what we think is fair while trying to meet your needs. 
 
@@ -52,12 +52,12 @@ Pay is always tricky and while we do our best to be transparent, we also recogni
 
 ## Performance Feedback
 
-We are always providing feedback - don't always expect us to schedule a formal "review" because you can expect to be talking about your code/designs/projects and getting feedback regularly. Afterall, regular feedback is a lot more important than waiting to get it officially once or twice a year. That being said, team leads will catch up you roughly monthly to discuss how your goals are progressing.  
+We are always providing feedback - don't always expect us to schedule a formal "review" because you can expect to be talking about your code/designs/projects and getting feedback regularly. After all, regular feedback is a lot more important than waiting to get it officially once or twice a year. That being said, team leads will catch up you roughly monthly to discuss how your goals are progressing.  
 
 
 ## 1:1s
 
-While you can expect to have quite regular 1:1 with your team lead, you'll chat with Eric or Nathan at least once anually where we'll generally talk about:
+While you can expect to have quite regular 1:1 with your team lead, you'll chat with Eric or Nathan at least once annually where we'll generally talk about:
 - your daily work schedule and load
 - your overall happiness
 - your relationships with your team, team lead, and company

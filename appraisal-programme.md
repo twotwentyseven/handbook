@@ -5,7 +5,7 @@
 
 We value a highly-skilled team that feels they can work autonomously while also knowing they have support to improve. 
 
-We don’t have any desire to micro-manage, allowing you to get on and enjoy the work without excessive admin while also ensuring we support each team member in identifying where they are exceling and where they can make some improvements. 
+We don’t have any desire to micro-manage, allowing you to get on and enjoy the work without excessive admin while also ensuring we support each team member in identifying where they are excelling and where they can make some improvements. 
 
 Our appraisal programme aims to accomplish this by outlining three routes a twotwentyseven team member may take. 
 

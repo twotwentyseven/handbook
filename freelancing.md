@@ -1,6 +1,6 @@
 # A Note About Freelancing 
 
-We recognise that many of our team members occassionally take on work outside of twotwentyseven. It sometimes helps bring in a little extra moola on the side for those treats or extra savings you're after. We support team members who want to take on some extra work but need to ensure we're clear on what we expect:
+We recognise that many of our team members occasionally take on work outside of twotwentyseven. It sometimes helps bring in a little extra moola on the side for those treats or extra savings you're after. We support team members who want to take on some extra work but need to ensure we're clear on what we expect:
 
 - Your twotwentyseven work is what's worked on during twotwentyseven time
 - It can't impact your ability to deliver or affect performance
@@ -20,7 +20,7 @@ Here's a few examples of what's okay vs definitely not okay
 ## Not Okay
 
 1. Taking calls or doing the extra work during twotwentyseven time – this also isn't a good excuse to "flex" time either. 
-2. Doing work which competes with what we do. This is somewhat a gray area if you're doing development work but we also understand you may take on slightly differnet clients than we may so working on smaller gigs that we wouldn't otherwise be able to cater for could be acceptable. 
+2. Doing work which competes with what we do. This is somewhat a gray area if you're doing development work but we also understand you may take on slightly different clients than we may so working on smaller gigs that we wouldn't otherwise be able to cater for could be acceptable. 
 3. Taking on work that distracts you or consumes you 
 
 ## In General

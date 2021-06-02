@@ -12,7 +12,7 @@ All team members are automatically enrolled in a workplace pension (unless you o
 
 We have 28 days holiday (inclusive of bank holidays in the UK) per year (starting in January through December) plus we also shut the office down during Christmas and don't count these days against your allocation. You'll accumulate holidays at the rate specified in your contract so if you join mid-way through the year, keep that in mind. 
 
-You need to request time off at leaset two weeks in advance by sending an email to holidays@twotwentyseven.com. You shouldn't book any holidays until you have approval. We rarely, if ever, turn away holiday requests but please be sensible and look ahead as we need to ensure we don't have an entire team gone. Also, because we work on project schedules, it's really helpful if we can get some idea of your longer holidays so we can make sure plan around this and extend project timelines so we don't need to rush through work. End of the day, we want you to take time off so help us, help you by letting us know when you need some R&R. 
+You need to request time off at least two weeks in advance by sending an email to holidays@twotwentyseven.com. You shouldn't book any holidays until you have approval. We rarely, if ever, turn away holiday requests but please be sensible and look ahead as we need to ensure we don't have an entire team gone. Also, because we work on project schedules, it's really helpful if we can get some idea of your longer holidays so we can make sure plan around this and extend project timelines so we don't need to rush through work. End of the day, we want you to take time off so help us, help you by letting us know when you need some R&R. 
 
 ## Reduced Hours
 
@@ -32,7 +32,7 @@ We appreciate the hard-work our team puts in and while we endeavour to say thank
 
 ## Gym Contributions
 
-We like to stay healthy and encourage our team to get fit. Outside of free credits we get from all the gyms we work with, we also contribute to gym memberships. If you would like to avail this, please send an email to Eric and Nathan and we'll look at the options. Generally, we contribute up to £20/month which you'd take as a taxable benefit or we also have a gym nearby the office that we can enroll you directly. 
+We like to stay healthy and encourage our team to get fit. Outside of free credits we get from all the gyms we work with, we also contribute to gym memberships. If you would like to avail this, please send an email to Eric and Nathan and we'll look at the options. Generally, we contribute up to £20/month which you'd take as a taxable benefit or we also have a gym nearby the office that we can enrol you directly. 
 
 ## Home Office Setup
 

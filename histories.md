@@ -6,7 +6,7 @@ CodexFit began as an idea in 2018 and officially went live in 2019. Up until 201
 
 We therefore decided to build a white labelled booking platform. 
 
-We built it to natively support subsciptions and credit based bookings and created in such a way that allowed an incredible level of flexibility that all of our clients say is unparalled when compared with the competition. 
+We built it to natively support subscriptions and credit based bookings and created in such a way that allowed an incredible level of flexibility that all of our clients say is unparalleled when compared with the competition. 
 
 One thing that makes it so flexible are the frontend components which are based in Vue.js but which can be overridden to achieve almost any look and feel. That's a far cry from the iFrames that many of our competitors use. 
 
@@ -24,4 +24,4 @@ This one isn't so much a product but something we think we've been on the cuttin
 
 When Shopify was first introduced, it was a hard sell to clients. Most wanted Magento and Wordpress/WooCommerce which were more established. We slowly won client over and now every client coming to us found us because of our expertise in Shopify. 
 
-Early on, we won some awards where Shopify recognised us as one of the preeminent partners. And again in 2020, we were invited and accepted into Shopify's Strategtic Partnerships Programme which is reserved for the top 1% of Shopify Partners globally. It gives us special access to early features and support tools that allow us to grow our skills faster than others. 
+Early on, we won some awards where Shopify recognised us as one of the pre-eminent partners. And again in 2020, we were invited and accepted into Shopify's Strategtic Partnerships Programme which is reserved for the top 1% of Shopify Partners globally. It gives us special access to early features and support tools that allow us to grow our skills faster than others. 

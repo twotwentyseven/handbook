@@ -4,7 +4,7 @@ We tell clients that we are proud to design, build and launch website that give 
 
 The word choice of that simple statement is essential and much has to do with pride – we will do everything we can to produce work which we are happy to put our name on. So it really is about that feeling you get when you step back and say, "Wow, we created that..." feels great, right?
 
-## Founding Prinicples
+## Founding Principles
 
 When we introduced twotwentyseven, we say it was founded based on two principles: we're problem solvers and we build long-lasting relationships. We hope and expect every team member to carry the torch on these whether that's in a client call, a project meeting, or selling us in a pitch. If we ever falter, raise your hand and call us on it – it's all of our responsibility to keep these in our DNA. 
 

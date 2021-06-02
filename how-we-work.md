@@ -6,10 +6,10 @@ We're a creative digital agency that works with brands to get them online for th
 
 We outline everything we expect in a project life cycle in our [project playbook](https://docs.google.com/spreadsheets/d/1szIUeI1UnClNAlaPNYG1Tc_0pREFpkLY2HDiIpv_Psc/edit?usp=sharing). You don't need to memorise this but it's important you at least understand how we work in any phase that your invlved in. You may also want to take a sneak peak at the phase before and after to get a taste of what's happened before the project has come to you. 
 
-Projects generally have this lifecyle:
+Projects generally have this lifecycle:
 1. Planning/scoping, discovery and digital strategy: This is when we try to understand the client's needs, what they like look and feel wise, what sorts of customer journeys we need to consider and the principles by which we will approach designing the full site. If a brand needs branding, we'll insert a phase for that just after this. 
 2. Design: We'll first work on wireframes and a couple look and feel options for the site. We then jump into designing the full site. 
-3. Design feedback: We seprate our feedback into it's own phase to give it dedicated time. We used to have it all in a single design phase but we felt this sometimes meant design never ended. This gives feedback a finite window and helps us keep the projects moving. The client gets a couple rounds to feedback before we get final approval. We try to communicate this means not much can change once we are in build but there's a feedback round after the build as we recognise that sometimes what was planned flat in Sketch doesn't always translate perfectly when it's dynamic so tweaks later on are inevitably needed. 
+3. Design feedback: We septate our feedback into it's own phase to give it dedicated time. We used to have it all in a single design phase but we felt this sometimes meant design never ended. This gives feedback a finite window and helps us keep the projects moving. The client gets a couple rounds to feedback before we get final approval. We try to communicate this means not much can change once we are in build but there's a feedback round after the build as we recognise that sometimes what was planned flat in Sketch doesn't always translate perfectly when it's dynamic so tweaks later on are inevitably needed. 
 4. Build: Developers then take those approved design and build it out on Shopify or Laravel/Nova. Our developers test as they build and then conduct a full round of functional testing before a client ever sees a site. The goal is zero client reported bugs!
 5. Build feedback: Clients get the site and give us a consolidated round of feedback. We recognise that we'll do most feedback now but always understand there will be a few tweaks after this. 
 6. Launch: We always operate in launch windows to make sure we don't get stressed and can take care of any final last little tweaks. But then it's ready to showcase our work and the brand to the world. 
@@ -17,13 +17,13 @@ Projects generally have this lifecyle:
 
 ## Communication
 
-We use Slack and Teamflow for all internal communication. We have made a concsicious choice not to have clients on Slack. Therefore, all client comms happen in a weekly status we keep during projects or email. The only reason we use email internally is to request holiday, confirm pay rises, position changes or other stuff we need a formal written record for. 
+We use Slack and Teamflow for all internal communication. We have made a conscious choice not to have clients on Slack. Therefore, all client comms happen in a weekly status we keep during projects or email. The only reason we use email internally is to request holiday, confirm pay rises, position changes or other stuff we need a formal written record for. 
 
 A few questions to consider so we have effective communication:
 
 1. How is what I'm about to communicate best communicated?
 
-- If it's a quick question that doesn't need an immediate answer, go for Slack. Slack is asychronous meaning someone will reply when they can.
+- If it's a quick question that doesn't need an immediate answer, go for Slack. Slack is asynchronous meaning someone will reply when they can.
 - If it needs a discussion or is urgent, chat in person or call with one of our many tools.
 - If there's a chance what you're saying is controversial or could be misinterpreted, chat in person or call with one of our many tools.
 
@@ -47,7 +47,7 @@ If you don't need an answer right away, maybe set a Slackbot reminder so you rem
 
 Mostly, it's important to remember that it takes about 10-15 minutes for someone to start to focus on something and when they're distracted it can take them that same amount of time to get back into the zone. 
 
-We're certainly not saying avoid ever talking with anyone... we're just saying be concious of other's time and they'll do the same for you. 
+We're certainly not saying avoid ever talking with anyone... we're just saying be conscious of other's time and they'll do the same for you. 
 
 
 ## You're Your Own Manager

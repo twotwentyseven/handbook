@@ -6,7 +6,7 @@ We're a small team and that makes it quite easy to figure out who does what. It 
 
 Hope you know by now but Nathan got the show on the road and founded twotwentyseven round about 2010. He's the one who sets the tone and cool vibe that we've become known for and is the big reason that we're always so passionate about solving problems. 
 
-He's chiefly resopnsible for:
+He's chiefly responsible for:
 * Strategic direction of the company
 * All legal/HR matters for the organisation
 * Pay and pensions
@@ -30,7 +30,7 @@ He's chiefly responsible for:
 * Ensuring resource utilisation is optimised
 * Improving process
 * Recruitment
-* Continued expansion
+* Growth/expansion of team and project pipeline
 * Meeting revenue and growth targets
 * Setting an annual roadmap and following through
 

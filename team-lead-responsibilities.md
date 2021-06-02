@@ -28,6 +28,6 @@ Each of our team leads are responsible for the well-being, professional growth a
 
 *A note about our team leads*. We encourage team leads to be "moonlight managers". To us that means they focus mostly on the work, and communication, and they allow the individuals on their teams to self-direct.
 
-At the same time, we ask our team leads to take on a lot of responsibility for their teams! We very much appreciate that that may result in team leads doing some emotional labor. That sort of work is usually invisible and hard to quantify in the way product work is, and that’s okay! It’s part of a team lead's tough job, and we see that.
+At the same time, we ask our team leads to take on a lot of responsibility for their teams! We very much appreciate that that may result in team leads doing some emotional labour. That sort of work is usually invisible and hard to quantify in the way product work is, and that’s okay! It’s part of a team lead's tough job, and we see that.
 
 Team leads who feel that their energy for their own work is _consistently_ suffering as a result of people management means something isn't working or that you're not getting enough time for a project. You should raise this with Eric so we can work on a solution. 
