@@ -27,6 +27,7 @@ If you ever have any feedback, get in touch with Eric and we'll do our best to g
 ## Appendices
 
 * [Our Appraisal Programme](https://github.com/twotwentyseven/handbook/blob/master/appraisal-programme.md)
+* [Going on holiday?](https://github.com/twotwentyseven/handbook/blob/master/holiday-prep.md)
 * [Levels for Developers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-developers.md)
 * [Levels for Designers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-designers.md)
 * [Levels for Project Managers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-project-managers.md)

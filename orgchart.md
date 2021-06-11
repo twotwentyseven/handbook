@@ -1,14 +1,14 @@
 # Who Does What?
 
-We're a small team and that makes it quite easy to figure out who does what. It also means that some people wear quite a few hats. As we grow, we have plans to unpicking some of these roles but for now, this should help serve as a guide for who generally is responsible for what at the leadership level. 
+We're a small team and that makes it quite easy to figure out who does what. It also means that some people wear quite a few hats. As we grow, we have plans to unpick some of these roles but for now, this should help serve as a guide for who generally is responsible for what at the leadership level. 
 
 ## Nathan, founder and technical director
 
-Hope you know by now but Nathan got the show on the road and founded twotwentyseven round about 2010. He's the one who sets the tone and cool vibe that we've become known for and is the big reason that we're always so passionate about solving problems. 
+Hope you know by now but Nathan got the show on the road and founded twotwentyseven round about 2010. He's the one who sets the tone and cool vibe that we've become known for and is the big reason that we're so passionate about solving problems. 
 
 He's chiefly responsible for:
 * Strategic direction of the company
-* All legal/HR matters for the organisation
+* All legal/HR matters for the company
 * Pay and pensions
 * Setting targets for revenue and growth
 * Evaluating performance across the leadership team

@@ -1,4 +1,4 @@
-# Levels for project managers
+# Levels for Project Managers
 
 We use the following as a guide to help us/you determine your level. It shouldn't be interpreted as a be all and end all list of what we expect but it's a great start to help you understand what we reasonably think someone should be able to do at each level. Make sure to also take into account our appraisal criteria when self-assessing yourself, determining performance and setting goals. 
 

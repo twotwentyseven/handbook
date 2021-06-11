@@ -24,4 +24,6 @@ This one isn't so much a product but something we think we've been on the cuttin
 
 When Shopify was first introduced, it was a hard sell to clients. Most wanted Magento and Wordpress/WooCommerce which were more established. We slowly won client over and now every client coming to us found us because of our expertise in Shopify. 
 
-Early on, we won some awards where Shopify recognised us as one of the pre-eminent partners. And again in 2020, we were invited and accepted into Shopify's Strategtic Partnerships Programme which is reserved for the top 1% of Shopify Partners globally. It gives us special access to early features and support tools that allow us to grow our skills faster than others. 
+Early on, we won some awards where Shopify recognised us as one of the pre-eminent partners. And again in 2020, we were invited, applied and accepted into Shopify's Strategtic Partnerships Programme which is reserved for the top 1% of Shopify Partners globally. It gives us special access to early features and support tools that allow us to grow our skills faster than others. 
+
+The most important thing for us in Shopify is directly connected to our founding principles – we are always pushing it and looking for new tools to make our Shopify sites next level. 

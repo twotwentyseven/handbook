@@ -12,11 +12,11 @@ You'll also get a company laptop and some equipment to help you get setup for hy
 
 If anything changes with your start date, please let your team lead know, and as always, reach out with questions at any point. 
 
-We expect new people to show up in the office a bit more frequently than everyone else. This is to ensure you have time to meet everyone, integrate and properly learn from others. We'll share this schedule with you in advance, though. 
+We sometimes expect new people to show up in the office a bit more frequently than everyone else. This is to ensure you have time to meet everyone, integrate and properly learn from others. We'll share this schedule with you in advance, though. 
 
 ## Your First Day
 
-We'll get you setup on all our system. This is a bit of a bear but by the time you're done you'll have accounts on everything including:
+We'll get you setup on all our systems. This is a bit of a bear but by the time you're done you'll have accounts on everything including:
 - Shopify
 - Gmail/Google Suite
 - Teamwork
@@ -41,6 +41,7 @@ By the end of the first month, you can expect:
 - Developers will undertake smaller maintenance tasks and/or start on smaller project (depending on the studio schedule)
 - Designers will create sections or make other minor updates to existing sites
 - Project managers will be introduced to clients and mostly observe project briefings and subsequent planning
+- To know more about [our appraisal programme](https://github.com/twotwentyseven/handbook/blob/master/appraisal-programme.md) and start to set goals for professional growth. 
 
 
 ## Your Second Month

@@ -2,7 +2,8 @@
 
 ## How do I request holiday?
 
-Send an email at least two weeks before you want holiday to holidays@twotwentyseven.com. If you're intending to take off quite a bit of time (i.e. 1-2 weeks) then please try to be sensible and request this at least a month in advance as it helps us get more time on a project so we don't need to rush it. 
+Send an email at least two weeks before you want holiday to holidays@twotwentyseven.com. If you're intending to take off quite a bit of time (i.e. 1-2 weeks) then please try to be sensible and request this at least a month in advance as it helps us get more time on a project so we don't need to rush it.
+
 
 ## How much can I flex my hours?
 

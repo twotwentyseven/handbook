@@ -46,4 +46,8 @@ We're really lucky to be in the UK which has the wonderful National Health Servi
 
 A particularly challenging one to talk about but nonetheless worth discussing. If you lose someone in your family whom you are close to, please communicate this at the earliest to your team lead and we'll talk about what we can do. Sometimes people need a little time off and others prefer a distraction. Either way, we're here to talk and discuss options. 
 
+## Maternity/Paternity Leave (reconsider name)
+
+@Nathan to provide guidance. 
+
 

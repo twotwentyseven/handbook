@@ -2,9 +2,9 @@
 
 ## Projects
 
-We're a creative digital agency that works with brands to get them online for the world. This means most everything we do is in the form of a project which may include starting from creating branding through designing a site to building it, launching it and getting into the wonderful world of email communication through CRM programmes. 
+We're a creative digital agency that works with brands to get them online for the world. This means most everything we do is in the form of a project which includes starting from creating branding through designing a site to building it, launching it and getting into the wonderful world of email communication through CRM programmes. 
 
-We outline everything we expect in a project life cycle in our [project playbook](https://docs.google.com/spreadsheets/d/1szIUeI1UnClNAlaPNYG1Tc_0pREFpkLY2HDiIpv_Psc/edit?usp=sharing). You don't need to memorise this but it's important you at least understand how we work in any phase that your invlved in. You may also want to take a sneak peak at the phase before and after to get a taste of what's happened before the project has come to you. 
+We outline everything we expect in a project life cycle in our [project playbook](https://docs.google.com/spreadsheets/d/1szIUeI1UnClNAlaPNYG1Tc_0pREFpkLY2HDiIpv_Psc/edit?usp=sharing). You don't need to memorise this but it's important you at least understand how we work in any phase that your invlved with. You may also want to take a sneak peak at the phase before and after to get a taste of what's happened before the project has come to you. 
 
 Projects generally have this lifecycle:
 1. Planning/scoping, discovery and digital strategy: This is when we try to understand the client's needs, what they like look and feel wise, what sorts of customer journeys we need to consider and the principles by which we will approach designing the full site. If a brand needs branding, we'll insert a phase for that just after this. 
@@ -17,7 +17,7 @@ Projects generally have this lifecycle:
 
 ## Communication
 
-We use Slack and Teamflow for all internal communication. We have made a conscious choice not to have clients on Slack. Therefore, all client comms happen in a weekly status we keep during projects or email. The only reason we use email internally is to request holiday, confirm pay rises, position changes or other stuff we need a formal written record for. 
+We use Slack and Teamflow for all internal communication. We have made a conscious choice not to have clients on Slack. Therefore, all client comms happen in a weekly status we keep during projects or email/phone. The only reason we use email internally is to request holiday, confirm pay rises, position changes or other stuff we need a formal written record for. 
 
 A few questions to consider so we have effective communication:
 
@@ -25,17 +25,17 @@ A few questions to consider so we have effective communication:
 
 - If it's a quick question that doesn't need an immediate answer, go for Slack. Slack is asynchronous meaning someone will reply when they can.
 - If it needs a discussion or is urgent, chat in person or call with one of our many tools.
-- If there's a chance what you're saying is controversial or could be misinterpreted, chat in person or call with one of our many tools.
+- If there's a chance what you're saying is controversial or could be misinterpreted, chat in person or call.
 
 2. When should I communicate this?
 
 - Am I unable to make any progress? If so, then get someone involved and tell them it's a priority. Determine how by using the questions before. 
 - Are you in the heat of the moment? Maybe it's best to let it cool down a bit before you approach someone. 
-- Is it low priority? If so, maybe put it in a list and get a few other things ready to ask about and then send it one go. 
+- Is it low priority? If so, maybe put it in a list or use Slackbot to remind you and get a few other things ready to ask about and then send it one go. 
 
 3. Who do I need to communicate with?
 
-- Are they available? We encourage team members to put in a headphone emoji on their status if they need some time to focus. Respect this and only break it if it's an absolute show stopper. 
+- Are they available? We encourage team members to put in a headphone emoji on their status (or wear headphones while in the office) if they need some time to focus. Respect this and only break it if it's an absolute show stopper. 
 - Could I check with anyone else? Sometimes we get an idea of who we need and don't consider if someone else could also help. Think whether anyone else could. 
 
 

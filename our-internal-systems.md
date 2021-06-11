@@ -6,9 +6,9 @@ This is our project management tool (referred to as TW). We all use this daily a
 
 ## Resource Guru
 
-This is where we plan how we are using everyone's time, something we lovely call resource (we refer to this as RG). The project management team meets weekly to discuss how we're allocating time and will sometimes need to make adjustments throughout the week based on requests that come in. It's like a massive, complicated puzzle that we're always trying to get right... please be patient with us, we try our best... we're in high demand and thus the reason we're growing. 
+This is where we plan how we are using everyone's time, something we call "resource" (we refer to this tool as RG). The project management team meets weekly to discuss how we're allocating time and will sometimes need to make adjustments throughout the week based on requests that come in. It's like a massive, complicated puzzle that we're always trying to get right... please be patient with us, we try our best... we're in high demand and thus the reason we're growing. 
 
-Everyone gets a daily RG email saying what's on their schedule that day. It's top-line. We always try to link your daily list to a specific task or task list in teamwork. When in doubt, get in touch with a project manager who booked you and they'll help get you ready for the task. 
+Everyone gets a daily RG email saying what's on their schedule that day – read it please. It's top-line. We always try to link your daily list to a specific task or task list in Teamwork. When in doubt, get in touch with a project manager who booked you and they'll help get you ready for the task. 
 
 ## Slack
 
