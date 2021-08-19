@@ -9,7 +9,7 @@ We outline everything we expect in a project life cycle in our [project playbook
 Projects generally have this lifecycle:
 1. Planning/scoping, discovery and digital strategy: This is when we try to understand the client's needs, what they like look and feel wise, what sorts of customer journeys we need to consider and the principles by which we will approach designing the full site. If a brand needs branding, we'll insert a phase for that just after this. 
 2. Design: We'll first work on wireframes and a couple look and feel options for the site. We then jump into designing the full site. 
-3. Design feedback: We septate our feedback into it's own phase to give it dedicated time. We used to have it all in a single design phase but we felt this sometimes meant design never ended. This gives feedback a finite window and helps us keep the projects moving. The client gets a couple rounds to feedback before we get final approval. We try to communicate this means not much can change once we are in build but there's a feedback round after the build as we recognise that sometimes what was planned flat in Sketch doesn't always translate perfectly when it's dynamic so tweaks later on are inevitably needed. 
+3. Design feedback: We separate our feedback into it's own phase to give it dedicated time. We used to have it all in a single design phase but we felt this sometimes meant design never ended. This gives feedback a finite window and helps us keep the projects moving. The client gets a couple rounds to feedback before we get final approval. We try to communicate this means not much can change once we are in build but there's a feedback round after the build as we recognise that sometimes what was planned flat in Sketch doesn't always translate perfectly when it's dynamic so tweaks later on are inevitably needed. 
 4. Build: Developers then take those approved design and build it out on Shopify or Laravel/Nova. Our developers test as they build and then conduct a full round of functional testing before a client ever sees a site. The goal is zero client reported bugs!
 5. Build feedback: Clients get the site and give us a consolidated round of feedback. We recognise that we'll do most feedback now but always understand there will be a few tweaks after this. 
 6. Launch: We always operate in launch windows to make sure we don't get stressed and can take care of any final last little tweaks. But then it's ready to showcase our work and the brand to the world. 
@@ -41,7 +41,7 @@ A few questions to consider so we have effective communication:
 
 ## Consider Time
 
-Not everything needs to be addressed immediately. Slack sometimes can make it feel like that. 
+Not everything needs to be addressed immediately. Slack/client emails can sometimes make it feel like that it does. 
 
 If you don't need an answer right away, maybe set a Slackbot reminder so you remember to ask someone. Or, maybe batch up your requests and ask someone if you can get their ear for 10 minutes just after their lunch. 
 
