@@ -44,6 +44,6 @@ A particularly challenging one to talk about but nonetheless worth discussing. I
 
 ## Maternity/Paternity Leave (reconsider name)
 
-@Nathan to provide guidance. 
+Having a baby is, apparently, an amazing thing - but it's also a physically, mentally and emotionally demanding time, during which people often struggle to get the rest they need.  We offer the standard Statutory Maternity Leave and Statutory Paternity Leave, as well as additional perks such as adjusted working hours, options to switch to part-time employment, a new baby package to welcome your little one into the world, and are flexible when it comes to how you wish to return to work.  Please speak to a senior manager, Eric or Nathan for more information.
 
 
