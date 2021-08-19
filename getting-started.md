@@ -12,7 +12,7 @@ You'll also get a company laptop and some equipment to help you get setup for hy
 
 If anything changes with your start date, please let your team lead know, and as always, reach out with questions at any point. 
 
-We sometimes expect new people to show up in the office a bit more frequently than everyone else. This is to ensure you have time to meet everyone, integrate and properly learn from others. We'll share this schedule with you in advance, though. 
+We expect new people to show up in the office a bit more frequently than everyone else. This is to ensure you have time to meet everyone, integrate and properly learn from others. We'll share this schedule with you in advance, though. 
 
 ## Your First Day
 
