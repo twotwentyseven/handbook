@@ -12,7 +12,7 @@ One thing that makes it so flexible are the frontend components which are based 
 
 After about a year, we adjusted the frontend components and upgraded all of our sites to v2 which were more stable and more flexible. They also all now contained a base template so they could be more easily and quickly installed on a site therefore reducing our integration fees. 
 
-When the pandemic started, we quickly pivoted and integrated an on demand and streaming component directly in the platform. It's what allowed Psycle to launch Psycle at Home to their existing 180,000 customers all without needing to make a single login and give them a chance to buy a plan on the credit card already on their account. 
+When the pandemic started, we quickly pivoted and integrated an on demand and streaming component directly in the platform. It's what allowed Psycle to launch Psycle at Home to their existing 180,000 customers all using the same logins they use for booking real-world classes and give them a chance to buy a plan on the credit card already on their account. 
 
 The team behind CodexFit borrows a lot from twotwentyseven but is growing. We went from just one location on CodexFit to about 16 just 1.5 years after the platform launched. 
 
@@ -24,6 +24,6 @@ This one isn't so much a product but something we think we've been on the cuttin
 
 When Shopify was first introduced, it was a hard sell to clients. Most wanted Magento and Wordpress/WooCommerce which were more established. We slowly won client over and now every client coming to us found us because of our expertise in Shopify. 
 
-Early on, we won some awards where Shopify recognised us as one of the pre-eminent partners. And again in 2020, we were invited, applied and accepted into Shopify's Strategtic Partnerships Programme which is reserved for the top 1% of Shopify Partners globally. It gives us special access to early features and support tools that allow us to grow our skills faster than others. 
+Early on, we won some awards where Shopify recognised us as one of the pre-eminent partners. And again in 2020, we were invited, applied and accepted into Shopify's Strategic Partnerships Programme which is reserved for the top 1% of Shopify Partners globally. It gives us special access to early features and support tools that allow us to grow our skills faster than others. 
 
 The most important thing for us in Shopify is directly connected to our founding principles – we are always pushing it and looking for new tools to make our Shopify sites next level. 
