@@ -6,7 +6,7 @@ We're based out of West London in Westbourne Grove. We've got a lovely space and
 
 When you're in the office, please keep the following in mind:
 
-- Dress sensibly: We have clients in the office and it's nice to look nice. For most of us, it's a smart casual affair. 
+- Dress sensibly: We have clients in the office and it's nice to look nice. For most of us, it's a smart casual affair. If you're unsure, just ask another member of the team. 
 - Bring in some headphones: Others know you're focusing when you have both headphones plugged in. 
 - Clean up after yourself: Don't leave it for later. Clean up right away. If you do a really good job, Poppy will bestow upon you an award
 - It's a shared space: So keep it nice for everyone else and don't be the person we need to talk with. 
@@ -25,7 +25,7 @@ The pandemic has encouraged us and many other companies to reconsider where work
 
 A little note on call etiquette: 
 
-- Look like you've put some effort in: We are on calls with each other and clients. Look the part - we're not the type of crowed who never puts on video or who looks like they've just rolled out of bed. We're a business and do some seriously good work so even when on video, let's look the part. 
+- Look like you've put some effort in: We are on calls with each other and clients. Look the part - we're not the type of crowd who never puts on video or who looks like they've just rolled out of bed. We're a business and do some seriously good work so even when on video, let's look the part. 
 - Don't eat on a call: Get it in before or after.
 - Mute yourself if you're typing or around others.
 - Pay attention: Nothing worse than someone who is clearly doing other things (unless you're just dragged into a call and really don't need to be there, but then make sure you ask why you're there in the first place as that's a waste of your time).
