@@ -38,10 +38,6 @@ We like to stay healthy and encourage our team to get fit. Outside of free credi
 
 We get all of our team members a laptop they can bring home. We also offer team members a sweet screen, dongle, and some stationary to help you settle in at home and be your most productive self. 
 
-## Medical
-
-We're really lucky to be in the UK which has the wonderful National Health Service. We've experimented with private insurance in the past but feedback has generally been negative and/or no one uses it. End of the day, we think the NHS provides an excellent service that you're already paying for with taxes so why not utilise it. 
-
 ## Bereavement Leave
 
 A particularly challenging one to talk about but nonetheless worth discussing. If you lose someone in your family whom you are close to, please communicate this at the earliest to your team lead and we'll talk about what we can do. Sometimes people need a little time off and others prefer a distraction. Either way, we're here to talk and discuss options. 
