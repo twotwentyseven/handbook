@@ -8,7 +8,7 @@ When you're in the office, please keep the following in mind:
 
 - Dress sensibly: We have clients in the office and it's nice to look nice. For most of us, it's a smart casual affair. If you're unsure, just ask another member of the team. 
 - Bring in some headphones: Others know you're focusing when you have both headphones plugged in. 
-- Clean up after yourself: Don't leave it for later. Clean up right away. If you do a really good job, Poppy will bestow upon you an award
+- Clean up after yourself: Don't leave it for later. Clean up right away. If you do a really good job, Poppy will bestow upon you an award.
 - It's a shared space: So keep it nice for everyone else and don't be the person we need to talk with. 
 
 ## From Home
@@ -17,9 +17,11 @@ We think that some things can be better done at home (and others better in the o
 
 While, working from home can be great for some people, it can be challenging for others so be aware that work from home is at the discretion of your team lead and company – don't expect it but instead, request it. 
 
+On that note, if you're working from home, you need to have space to do it and an excellent internet connection. If you don't have either, be prepared to come into the office. 
+
 How you're working from home and performance is something we will discuss with each person on the team regularly. 
 
-Any new team members who are within their first six months are expected to come into the office four days a week. We learn best from each other in person and integrating with the team to build relationships is a fundamental aspect of how we work so this extra time will help with both. 
+Any new team members who are within their first six months are expected to come into the office three days a week (this may change depending on our lunar habitation plan but will be communicated in advance). We learn best from each other in person and integrating with the team to build relationships is a fundamental aspect of how we work so this extra time will help with both. 
 
 The pandemic has encouraged us and many other companies to reconsider where working can be best done but it's fair to say that quite a bit is an experiment right now and that our working arrangement may change as we evaluate its effectiveness and suitability for our team. 
 
@@ -29,5 +31,3 @@ A little note on call etiquette:
 - Don't eat on a call: Get it in before or after.
 - Mute yourself if you're typing or around others.
 - Pay attention: Nothing worse than someone who is clearly doing other things (unless you're just dragged into a call and really don't need to be there, but then make sure you ask why you're there in the first place as that's a waste of your time).
-
-
