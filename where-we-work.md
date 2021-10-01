@@ -7,6 +7,7 @@ We're based out of West London in Westbourne Grove (although this may change, wi
 When you're in the office, please keep the following in mind:
 
 - Dress sensibly: We have clients in the office and it's nice to look nice. For most of us, it's a smart casual affair. If you're unsure, just ask another member of the team. 
+- Keep up standards of personal hygeine.  When you're not behind a camera, ensure you're showered, smelling fresh, brushed hair, etc.  You're representing the whole team.
 - Bring in some headphones: Others know you're focusing when you have both headphones plugged in. 
 - Clean up after yourself: Don't leave it for later. Clean up right away. If you do a really good job, Poppy will bestow upon you an award.
 - It's a shared space: So keep it nice for everyone else and don't be the person we need to talk with. 
