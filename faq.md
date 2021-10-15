@@ -7,7 +7,7 @@ Send an email at least two weeks before you want holiday to holidays@twotwentyse
 
 ## How much can I flex my hours?
 
-We ask everyone work a majority of their hours when most everyone else is online. Our office hours when clients can expect to get a hold of us are from 9AM to 6PM so try to get it around this. Something like 8-5 would be okay but probably not something like 12-10PM. 
+We ask everyone work a majority of their hours when most everyone else is online. Our office hours when clients can expect to get a hold of us are from 9AM to 6PM so try to get it around this. Something like 8-5 would be okay but probably not something like 12-10PM. Generally, try to start within an hour of 9AM and end within an hour of 6PM. 
 
 
 ## What do I do if I'm sick?
