@@ -12,4 +12,4 @@ We ask everyone work a majority of their hours when most everyone else is online
 
 ## What do I do if I'm sick?
 
-Ultimately, it's up to you to decide if you're not well enough to work. We encourage our team to get rest and recover properly. So if you've decided it's best you take it easy, message your team lead and Eric that you need time away. If you're scheduled to work in the office and aren't well, then definitely don't come in then decide whether you can work while at home or if it's better to get rest.  
+Ultimately, it's up to you to decide if you're not well enough to work. We encourage our team to get rest and recover properly. So if you've decided it's best you take it easy, message your team lead and Eric that you need time away (Whatsapp is probably best for this, especially early in the morning or when we're not on Slack). If you're scheduled to work in the office and aren't well, then definitely don't come in then decide whether you can work while at home or if it's better to get rest.  
