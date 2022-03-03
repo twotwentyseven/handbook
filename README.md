@@ -34,5 +34,6 @@ If you ever have any feedback, get in touch with Eric and we'll do our best to g
 * [Team Lead Responsibilities](https://github.com/twotwentyseven/handbook/blob/master/team-lead-responsibilities.md)
 * [Disciplinary Procedure](https://github.com/twotwentyseven/handbook/blob/master/disciplinary-procedure.md)
 * [Grievance Procedure](https://github.com/twotwentyseven/handbook/blob/master/grievance-procedure.md)
+* [Leaving Procedure](https://github.com/twotwentyseven/handbook/blob/master/leaving-procedure.md)
 * [Vocabulary](https://github.com/twotwentyseven/handbook/blob/master/vocabulary.md)
 * [FAQ](https://github.com/twotwentyseven/handbook/blob/master/faq.md)
