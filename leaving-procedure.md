@@ -4,11 +4,17 @@
 
 We don't have team members leave often. It's sad when they do but we also want to make sure there is a clear process to follow so we all can focus on spending time together and saying proper goodbyes rather than worrying about some of these details. 
 
-## Thiniking of leaving?
+## Thinking of leaving?
 
 We always hope you'll talk with us if you're unhappy - we never, ever want anyone to leave if we can avoid it. So when in doubt, talk with Nathan or Eric. 
 
-If you do decide it's time to move on, you'll need to share that with Nathan and Eric and then make it official over email. We'll then calculate your last day. 
+If, however, you do decide it's time to move on to pastures new, you'll need to let Nathan and Eric know, and make it official over email. We'll then calculate your last day, and moneys owed. 
+
+In your resignation email, please ensure the following:
+
+* The date of resignation
+* Your requested final day (this may not be your actual final day, dependant on your contractual notice period, holidays accrued, etc)
+* Optionally, your reason for leaving
 
 ## What to do in your last month(s)
 
@@ -55,4 +61,5 @@ It's a sad day and we'll miss you! There are a few more of the formal bits on th
 
 You'll receive your final pay during the normal end of monthy pay period. This will be adjusted to include any unused holiday, too. 
 
-You'll have access to FreeAgent for payroll where you can get any payslips or a P45 so make sure you remember the login you setup when you first created the account.  
+You'll have access to FreeAgent for payroll where you can get any payslips or a P45 so make sure you remember the login you setup when you first created the account.  Access will remain for at least 3 months after you leave, so may sure you take copies of anything you need.  If you need something in the future and no longer have access, please email Nathan.
+
