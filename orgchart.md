@@ -18,7 +18,7 @@ As a technical director, he's also looking after:
 * Are we using the right tools?
 * What's next in tech? What ought we be on the lookout for to stay ahead of trends?
 
-Nathan also serves as the backend team lead and design co team lead with Eric. 
+Nathan also serves as the technical/development team lead and design co team lead with Eric. 
 
 ## Eric, operations director
 
@@ -35,10 +35,3 @@ He's chiefly responsible for:
 * Setting an annual roadmap and following through
 
 Eric also serves as the project management team lead and design co team lead with Nathan. 
-
-## Rich, frontend team lead
-
-Rich has been with twotwentyseven since 2018 and moved into a team lead role in 2020. He's a brilliant self-starter who can pick up something and figure it out just about as quick as Nathan. 
-
-He's chiefly responsible for:
-* Anything you see in the [team lead responsibilities](https://github.com/twotwentyseven/handbook/blob/master/team-lead-responsibilities.md). 
