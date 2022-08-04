@@ -21,13 +21,12 @@ We'll get you setup on all our systems. This is a bit of a bear but by the time 
 - Gmail/Google Suite
 - Teamwork
 - Resource Guru
-- Sketch
+- Sketch/Figma
 - 1Password
 - Slack
-- Teamflow
 - Github (if needed)
 
-You'll usually arrive around 10-11AM but then all following days we ask you work roughly the same hours as your team lead. 
+You'll usually arrive around 10-11AM but then all following days we ask you work roughly the same hours as your team. 
 
 ## Your First Month
 
