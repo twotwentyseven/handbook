@@ -10,21 +10,25 @@ All team members are automatically enrolled in a workplace pension (unless you o
 
 ## Holidays
 
-We have 28 days holiday (inclusive of bank holidays in the UK) per year (starting in January through December) plus we also shut the office down during Christmas and don't count these days against your allocation. You'll accumulate holidays at the rate specified in your contract so if you join mid-way through the year, keep that in mind. 
+We have 24 days you can take (the contract as of August 2022 still says 20), 8 days of bank holidays, plus we also shut the office down during Christmas and don't count these days against your allocation (it's usually 3 extra days). So all in, that's 35 days holiday each year and our holiday calendar runs January-December. You'll accumulate holidays at the rate specified in your contract so if you join mid-way through the year, keep that in mind. 
 
-You need to request time off at least two weeks in advance by sending an email to holidays@twotwentyseven.com. You shouldn't book any holidays until you have approval. We rarely, if ever, turn away holiday requests but please be sensible and look ahead as we need to ensure we don't have an entire team gone. Also, because we work on project schedules, it's really helpful if we can get some idea of your longer holidays so we can make sure plan around this and extend project timelines so we don't need to rush through work. End of the day, we want you to take time off so help us, help you by letting us know when you need some R&R. 
+You need to request time off at least two weeks in advance by sending an email to holidays@twotwentyseven.com. You shouldn't book any holidays until you have approval. We rarely, if ever, turn away holiday requests but please be sensible and look ahead in Resource Guru as we need to ensure we don't have an entire team gone. Also, because we work on project schedules, it's really helpful if we can get some idea of your longer holidays so we can make sure plan around this and extend project timelines so we don't need to rush through work. End of the day, we want you to take time off so help us, help you by letting us know when you need some R&R.  
 
-## Reduced Hours
+## Working Hours & Hybrid
 
-Starting in January 2021, we began a trial to reduce our working day from 8 hours plus 1 hour lunch to 7 hours plus hour lunch. This was initially introduced to help people disconnect and better balance their work and personal life in the midst of a pandemic and lockdown. We're still running this trial and are curious how it works in a hybrid model. We may change back or alter this depending on feedback and company performance. 
+When we work from home, we work our normal hours which is roughly 9AM-6PM with an hour lunch. When we come into the office, we work one hour less as a way to help our team make up some commuting time. Usually, that would mean 9AM-5PM. 
+
+## Semi Flexible Hours
+
+We offer some flexibility with working hours but admit that for our team to work well together, we need to work broadly similar hours. Otherwise, you may find yourself trying to solve a problem when no one else is around. In effect, we say that you can flex our hours plus or minus one hour. So you could start at 8AM and end at 5PM. If we're in the office, we ask for a bit more sensitivity to try to work a bit closer to our start time of 9AM primarily because we already only get two days together and because of the somewhat reduced working day. Therefore, if you could try to stick closer to 8:30-9:30AM as a start time, it will help us to maximise our face time together so we can problem solve and collaborate more effectively. 
 
 ## Free Lunches
 
-When we're in the office, we provide a free lunch three days a week. During the pandemic, we offered everyone a weekly Deliveroo of their choice. 
+When we're in the office, we provide a free lunch twice days a week.
 
 ## Team Outings
 
-We like to celebrate the incredible work of the team and generally do this once a month by going out to enjoy a beverage at a local pub. 
+We like to celebrate the incredible work of the team and generally do this once a month by going out to enjoy a beverage at a local pub. We also got beer on draught in the office, too! (along with some other great non-alcoholic beverages)
 
 ## Twice Annual Parties
 
@@ -42,7 +46,7 @@ We get all of our team members a laptop they can bring home. We also offer team 
 
 A particularly challenging one to talk about but nonetheless worth discussing. If you lose someone in your family whom you are close to, please communicate this at the earliest to your team lead and we'll talk about what we can do. Sometimes people need a little time off and others prefer a distraction. Either way, we're here to talk and discuss options. 
 
-## Maternity/Paternity Leave (reconsider name)
+## Maternity/Paternity Leave
 
 Having a baby is, apparently, an amazing thing - but it's also a physically, mentally and emotionally demanding time, during which people often struggle to get the rest they need.  We offer the standard Statutory Maternity Leave and Statutory Paternity Leave, as well as additional perks such as adjusted working hours, options to switch to part-time employment, a new baby package to welcome your little one into the world, and are flexible when it comes to how you wish to return to work.  Please speak to a senior manager, Eric or Nathan for more information.
 
