@@ -16,4 +16,4 @@ Ultimately, it's up to you to decide if you're not well enough to work. We encou
 
 ## What should I do if I have a doctor's appointment?
 
-Try your best to schedule these in a way to limit the impact on work. Where you can't, though, we trust our team to make up the hours in a way they see fit. Please let your manager know in advance of the time away either via Slack or a direct email. Then, when you're actually off on the day, use a Slack status to let others know you'll be away from your desk for a bit. 
+Try your best to schedule these in a way to limit the impact on work. Where you can't, though, we trust our team to make up the hours in a way that works with their schedule – it's important to communicate that plan with your manager. Please let your manager know in advance of the time away either via Slack or a direct email. Then, when you're actually off on the day, use a Slack status to let others know you'll be away from your desk for a bit. 
