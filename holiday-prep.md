@@ -1,5 +1,7 @@
 # Anything I should be doing before/after I go on holiday?
 
+If you're going on holidays, make sure you email holidays@twotwentyseven.com at least two weeks in advance for a shorter holiday and as far in advance for a longer one. This helps us plan our resource schedule and make sure we don't get into a pickle with how we schedule projects (i.e. promise something that then can't be done). 
+
 If it's a short holiday (1-2 days) then you probably will need to do very little to prepare. If it's longer then follow the below procedure. 
 
 Everyone should prepare for going on holiday by creating a handover plan. Some may find this is shorter than others, eg you're a developer and nothing has been purposefully scheduled during your holiday vs a project manager which will need to provide more extensive notes.
