@@ -32,3 +32,5 @@ A little note on etiquette:
 - Don't eat on a call: Get it in before or after.
 - On a call, mute yourself if you're typing or around others.
 - Pay attention: Nothing worse than someone who is clearly doing other things (unless you're just dragged into a call and really don't need to be there, but then make sure you ask why you're there in the first place as that's a waste of your time).
+
+We also offer everyone 5 days you can otherwise take from home where you'd normally be in the office (pro-rated for months worked in the Jan-Dec year). If you want to use a day, email holidays@twotwentyseven.com at least a few days before you plan on using this. Our time together in the office is really important for building our team and collaborating so try to use these sparingly and be careful to avoid requesting one if you have things already scheduled like a client meeting in-person or a team day. 
