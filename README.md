@@ -1,39 +1,42 @@
-# twotwentyseven Team Handbook
+## Laravel Website
 
-We existed for over 10 years without a handbook. But, as we grow we realised that we had files all over the place and it was creating for an inconsistent onboarding experience. That sort of meant if you were a chatty Kathy that you'd probably know more compared to a silent Sean. 
+This is the source of the official [Laravel website](https://laravel.com).
 
-Therefore, we've centralised all of our stuff into one nifty place. 
+## Local Development
 
-This handbook represents an attempt at helping you learn more about twotwentyseven but certainly still isn't as exhaustive as it could be. Within it you're learn about our history, what excites us, some rituals we need you to learn, how you can grow, who does what, and more about our processes. 
+If you want to work on this project on your local machine, you may follow the instructions below. These instructions assume you are serving the site using Laravel Valet out of your `~/Sites` directory:
 
-If you ever have any feedback, get in touch with Nathan and we'll do our best to get this updated. It's a work in progress, after all. 
+1. Fork this repository 
+2. Open your terminal and `cd` to your `~/Sites` folder
+3. Clone your fork into the `~/Sites/laravel` folder, by running the following command *with your username placed into the {username} slot*:
+    ```bash
+    git clone git@github.com:{username}/laravel.com laravel
+    ```
+4. CD into the new directory you just created:
+    ```bash
+    cd laravel
+    ```
+5. Run the `setup.sh` bin script, which will take all the steps necessary to prepare your local install:
+    ```bash
+    ./bin/setup.sh
+    ```
+   
+### Torchlight Integration
 
+This project relies on Torchlight for syntax highlighting. You will need to create an account at [torchlight.dev](https://torchlight.dev/) and generate a free personal token for use in this project. Once generated, add your token to your .env file:
 
-## Sections
-* [twotwentyseven Introduction](https://github.com/twotwentyseven/handbook/blob/master/intro-twotwentyseven.md)
-* [What We Stand For](https://github.com/twotwentyseven/handbook/blob/master/what-we-stand-for.md)
-* [Code of Conduct](https://github.com/twotwentyseven/handbook/blob/master/code-of-conduct.md)
-* [Who Does What?](https://github.com/twotwentyseven/handbook/blob/master/orgchart.md)
-* [Where We Work](https://github.com/twotwentyseven/handbook/blob/master/where-we-work.md)
-* [How We Work](https://github.com/twotwentyseven/handbook/blob/master/how-we-work.md)
-* [A Few Histories](https://github.com/twotwentyseven/handbook/blob/master/histories.md)
-* [Benefits & Perks](https://github.com/twotwentyseven/handbook/blob/master/benefits-and-perks.md)
-* [Getting Started](https://github.com/twotwentyseven/handbook/blob/master/getting-started.md)
-* [Our Rituals](https://github.com/twotwentyseven/handbook/blob/master/our-rituals.md)
-* [Our Internal Systems](https://github.com/twotwentyseven/handbook/blob/master/our-internal-systems.md)
-* [A Note About Freelancing](https://github.com/twotwentyseven/handbook/blob/master/freelancing.md)
+```ini
+TORCHLIGHT_TOKEN=your-torchlight-token
+```
 
+### Syncing Upstream Changes Into Your Fork 
 
-## Appendices
+This [GitHub article](https://help.github.com/en/articles/syncing-a-fork) provides instructions on how to pull the latest changes from this repository into your fork.
 
-* [Our Appraisal Programme](https://github.com/twotwentyseven/handbook/blob/master/appraisal-programme.md)
-* [Going on holiday?](https://github.com/twotwentyseven/handbook/blob/master/holiday-prep.md)
-* [Levels for Developers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-developers.md)
-* [Levels for Designers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-designers.md)
-* [Levels for Project Managers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-project-managers.md)
-* [Team Lead Responsibilities](https://github.com/twotwentyseven/handbook/blob/master/team-lead-responsibilities.md)
-* [Disciplinary Procedure](https://github.com/twotwentyseven/handbook/blob/master/disciplinary-procedure.md)
-* [Grievance Procedure](https://github.com/twotwentyseven/handbook/blob/master/grievance-procedure.md)
-* [Leaving Procedure](https://github.com/twotwentyseven/handbook/blob/master/leaving-procedure.md)
-* [Vocabulary](https://github.com/twotwentyseven/handbook/blob/master/vocabulary.md)
-* [FAQ](https://github.com/twotwentyseven/handbook/blob/master/faq.md)
+### Updating After Remote Code Changes
+
+If you pull down the upstream changes from this repository into your local repository, you'll want to update your Composer and NPM dependencies, as well as update your documentation branches. For convenience, you may run the `bin/update.sh` script to update these things:
+
+```bash
+./bin/update.sh
+```

@@ -15,7 +15,7 @@ Our appraisal programme aims to accomplish this by outlining three routes a twot
 
 ### Route 1: Observation 
 
-The observation route includes more regular code reviews and meetings with your team lead and occasionally with Eric and Nathan. 
+The observation route includes more regular code reviews and meetings with your team lead and occasionally with Nathan or Poppy. 
 
 Any new team member will automatically go on the observation route for the first six months. This includes the first three months of probation (probation periods may be set for a longer duration depending on the position but this will be made clear during the hiring process). 
 
@@ -97,9 +97,9 @@ Following the first month, catch-ups should happen at least every other week.
 <p>
 For all regular team members, catch-ups should happen at least twice a month. 
    </td>
-   <td>The team lead should maintain a calender, in coordination with Eric, of all catch-ups. 
+   <td>The team lead should maintain a calender, in coordination with Nathan, of all catch-ups. 
 <p>
-The team member is responsible for writing up summaries of these meetings in a Google doc supplied by Eric. 
+The team member is responsible for writing up summaries of these meetings in a Google doc supplied by Nathan. 
    </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ The team member is responsible for writing up summaries of these meetings in a G
 <p>
 This isn’t meant to take more than 10-20 minutes. 
    </td>
-   <td>Eric will provide the doc. You’ll use the same one the entire time, just adding more pages, like a journal, as you go. 
+   <td>Nathan will provide the doc. You’ll use the same one the entire time, just adding more pages, like a journal, as you go. 
 <p>
 You must take summary notes immediately after the catch-up with your team lead. 
 <p>
@@ -156,7 +156,7 @@ During the catch-up, share your proposal with your team lead. It’s an opportun
 
 **Following proposal approval _(2-4 months)_**
 
-It’s now time to get to work. Make sure you have time resourced each week to work on your personal growth plan (check with Eric/Poppy). And check-in with your team lead about twice a month, preferably at the end of the half-day you have resourced. 
+It’s now time to get to work. Make sure you have time resourced each week to work on your personal growth plan (check with Nathan/Poppy). And check-in with your team lead about twice a month, preferably at the end of the half-day you have resourced. 
 
 You should keep a journal of your learning - this can be short but include a bullet point listed as you learn and/or notes from your catch-ups with your team lead. 
 
@@ -224,7 +224,7 @@ The team member should keep notes of these catch-up to show their learning over 
    </td>
    <td>As a celebration of your work, you’ll share your new learning in a workshop or demo with the team. 
    </td>
-   <td>Along with your team lead and Eric, you’ll schedule a time to share toward the end of your plan. 
+   <td>Along with your team lead and Nathan, you’ll schedule a time to share toward the end of your plan. 
    </td>
   </tr>
 </table>

@@ -33,4 +33,4 @@ We work hard to recruit the nicest, smartest, humble people we can find. We love
 
 We try to make sure everyone can play a part in the recruitment process and usually will invite candidates to meet the team on their final interview if we feel they have a chance to get offered the position. At that time, be honest about your experience and help us find the right people for the team. 
 
-If you ever feel we can do something to improve the team's happiness, don't hesitate to talk with a team lead, Eric or Nathan. 
+If you ever feel we can do something to improve the team's happiness, don't hesitate to talk with a team lead, Poppy or Nathan. 

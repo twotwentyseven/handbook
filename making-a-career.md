@@ -26,13 +26,13 @@ While it's important we help each person grow, we recognise that everyone learns
 
 View the levels of each team:
 
-* [Levels for Developers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-developers.md)
-* [Levels for Designers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-designers.md)
-* [Levels for Project Managers](https://github.com/twotwentyseven/handbook/blob/master/levels-for-project-managers.md)
+* [Levels for Developers](/docs/{{version}}/levels-for-developers)
+* [Levels for Designers](/docs/{{version}}/levels-for-designers)
+* [Levels for Project Managers](/docs/{{version}}/levels-for-project-managers)
 
 ## Appraisal
 
-To support your growth, we have an extensive route-based appraisal programme that you read more about [here](https://github.com/twotwentyseven/handbook/blob/master/appraisal-programme.md). 
+To support your growth, we have an extensive route-based appraisal programme that you read more about [here](/docs/{{version}}/appraisal-programme). 
 
 ## Goal Setting
 
@@ -56,10 +56,10 @@ We are always providing feedback - don't always expect us to schedule a formal "
 
 ## 1:1s
 
-While you can expect to have quite regular 1:1 with your team lead, you'll chat with Eric or Nathan at least once annually where we'll generally talk about:
+While you can expect to have quite regular 1:1 with your team lead, you'll chat with Nathan or Poppy at least once annually where we'll generally talk about:
 - your daily work schedule and load
 - your overall happiness
 - your relationships with your team, team lead, and company
 - your thoughts about professional growth and anything else we can do to help
 
-Keep in mind, it's just as much a time for Eric and Nathan to ask questions and feedback but we also equally want to hear about what we can do improve, too. 
+Keep in mind, it's just as much a time for Nathan or Poppy to ask questions and feedback but we also equally want to hear about what we can do improve, too. 

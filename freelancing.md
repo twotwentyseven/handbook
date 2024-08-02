@@ -31,5 +31,5 @@ So while we support it, the short story is be sensible.
 * Do you need to do it during twotwentyseven time?
 * Does it impact your performance?
 
-If the answer is yes to any of it, then please don't do it. If you're not sure, be open and honest, and speak to your manager, Eric or Nathan about it.
+If the answer is yes to any of it, then please don't do it. If you're not sure, be open and honest, and speak to your manager or Nathan about it.
 

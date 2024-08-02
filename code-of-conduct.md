@@ -30,4 +30,4 @@ Our code of conduct applies while doing twotwentyseven work or representing us a
 
 If you think something's gone wrong, try to address it with the person first but it's always okay to talk with your team lead if you're unsure about how to proceed. We certainly hope we hire people who wouldn't intentionally try to cause harm and with the increasing shift to digital comms, we can sometimes misinterpret messages so let's all make sure we give each other a chance and seek understanding. If there's still definitely something wrong, then again, seek out support from your team lead. 
 
-If the issue is potentially more serious, we will follow the procedures as outlined in the [disciplinary procedures](https://github.com/twotwentyseven/handbook/blob/master/disciplinary-procedure.md)
+If the issue is potentially more serious, we will follow the procedures as outlined in the [disciplinary procedures](/docs/{{version}}/disciplinary-procedure)

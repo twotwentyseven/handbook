@@ -2,7 +2,7 @@
 
 ## Our Onboarding Process
 
-twotwentyseven has grown a lot over the past couple of years which has meant welcoming many new team members. Our processes have grown and changed as a result and we hope you find your onboarding both welcoming and supportive. If you ever have any feedback, don't hold on it! Get in touch with your team lead, Nathan or Eric at any point if there's ever anything we can be doing better. 
+twotwentyseven has grown a lot over the past couple of years which has meant welcoming many new team members. Our processes have grown and changed as a result and we hope you find your onboarding both welcoming and supportive. If you ever have any feedback, don't hold on it! Get in touch with your team lead, Nathan or Poppy at any point if there's ever anything we can be doing better. 
 
 ## Before You Arrive
 
@@ -21,12 +21,13 @@ We'll get you setup on all our systems. This is a bit of a bear but by the time 
 - Gmail/Google Suite
 - Teamwork
 - Resource Guru
-- Sketch/Figma
+- Sketch
 - 1Password
 - Slack
+- Teamflow
 - Github (if needed)
 
-You'll usually arrive around 10-11AM but then all following days we ask you work roughly the same hours as your team. 
+You'll usually arrive around 10-11AM but then all following days we ask you work roughly the same hours as your team lead. 
 
 ## Your First Month
 
@@ -40,7 +41,7 @@ By the end of the first month, you can expect:
 - Developers will undertake smaller maintenance tasks and/or start on smaller project (depending on the studio schedule)
 - Designers will create sections or make other minor updates to existing sites
 - Project managers will be introduced to clients and mostly observe project briefings and subsequent planning
-- To know more about [our appraisal programme](https://github.com/twotwentyseven/handbook/blob/master/appraisal-programme.md) and start to set goals for professional growth. 
+- To know more about [our appraisal programme](/docs/{{version}}/appraisal-programme) and start to set goals for professional growth. 
 
 
 ## Your Second Month
@@ -52,7 +53,7 @@ By the end of the second month, you can expect:
 - Regular, daily use of our systems. You should start to feel comfortable using Teamwork and look to Resource Guru as your guide for what’s next.
 - Daily check-ins with your team lead.
 - Weekly reflection, with your team lead, using our appraisal criteria to start to identify areas you’re excelling and opportunities for growth.
-- Developers and designers may start to take on full projects working closely with their team lead and Eric/Nathan for regular feedback.
+- Developers and designers may start to take on full projects working closely with their team lead and Nathan/Poppy for regular feedback.
 - Project managers should start to expect to manage existing client relationships.
 
 

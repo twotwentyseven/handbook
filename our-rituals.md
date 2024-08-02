@@ -14,7 +14,7 @@ On the first working day of the week at 9:30AM, we'll get on a call and the proj
 
 ## End of Week Wrap-ups
 
-At the end of each week, we'll have a call or meet in person to celebrate the wins from the week. It's a time to recognise the good things and at least once a month, Eric will update on the new business pipeline so everyone has some awareness of who we're talking with and what's on the horizon. 
+At the end of each week, we'll have a call or meet in person to celebrate the wins from the week. It's a time to recognise the good things and at least once a month, Poppy will update on the new business pipeline so everyone has some awareness of who we're talking with and what's on the horizon. 
 
 ## Compliments and Thank Yous
 

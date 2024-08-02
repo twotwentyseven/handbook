@@ -2,7 +2,7 @@
 
 ## twotwentyseven's Story
 
-From a one man show in 2010 to a multi-discipline growing team of a 12 in 2022, twotwentyseven has grown a lot but there are a few things which remain constant:
+From a one man show in 2010 to a multi-discipline growing team of a 14 in 2021, twotwentyseven has grown a lot but there are a few things which remain constant:
 
 - Relationships still underpin everything we do: Nathan worked in quite a few agencies before starting his own and one early observation was that the agency client relationship was often too transactional. He set out to change that by working with clients we could get on board with and support long-term. This mantra also equally applies internally – we're in this together as a team doing great work.  
 
@@ -26,7 +26,7 @@ We've ebbed and flow in terms of size and roles on our team over the years.
 
 Since our inception, it's always been a team of developers and designers but in 2018 we added our first full time project manager. We also started to put in place plans to allow us to scale. 
 
-From 2019-2022 we grew from a team of five to a team of a 12 with ambitions to continuing growing.
+From 2019-2021 we grew from a team of five to a team of a 14 with ambitions to continuing growing.
 
 Our team is organised into frontend development, backend development, design and project management. That being said, every project team generally includes a frontend developer, designer, and project manager. If there is custom work on Laravel or CodexFit, a backender would also get involved. 
 

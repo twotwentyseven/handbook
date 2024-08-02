@@ -18,20 +18,20 @@ As a technical director, he's also looking after:
 * Are we using the right tools?
 * What's next in tech? What ought we be on the lookout for to stay ahead of trends?
 
-Nathan also serves as the technical/development team lead and design co team lead with Eric. 
+Nathan also serves as the backend team lead and design co team lead with Poppy. 
 
-## Eric, operations director
+## Poppy, head of projects
 
-He joined twotwentyseven in 2018 as the first full-time project manager and has transformed processes across the team, introduced transparent pay, setup the appraisal programme and oversees recruitment and expansion. 
+Poppy joined twotwentyseven in 2019 as a project manager and has since worked her way up to head of projects. 
 
-He's chiefly responsible for:
-* Day to day operations of the company
-* Managing team leads and working with them to get the pulse
+She's chiefly responsible for:
+* Day to day management of the project team
+* Managing team leads and working with them and Nathan to keep things running smoothly
 * Ensuring resource utilisation is optimised
 * Improving process
-* Recruitment
 * Growth/expansion of team and project pipeline
 * Meeting revenue and growth targets
 * Setting an annual roadmap and following through
 
-Eric also serves as the project management team lead and design co team lead with Nathan. 
+Poppy also serves as the unofficial social queen, and organises our summer and winter parties, amongst other social activities.
+
