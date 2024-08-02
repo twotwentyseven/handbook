@@ -6,7 +6,7 @@ Therefore, we've centralised all of our stuff into one nifty place.
 
 This handbook represents an attempt at helping you learn more about twotwentyseven but certainly still isn't as exhaustive as it could be. Within it you're learn about our history, what excites us, some rituals we need you to learn, how you can grow, who does what, and more about our processes. 
 
-If you ever have any feedback, get in touch with Eric and we'll do our best to get this updated. It's a work in progress, after all. 
+If you ever have any feedback, get in touch with Nathan and we'll do our best to get this updated. It's a work in progress, after all. 
 
 
 ## Sections
