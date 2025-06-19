@@ -8,7 +8,7 @@ We don't have team members leave often. It's sad when they do but we also want t
 
 We always hope you'll talk with us if you're unhappy - we never, ever want anyone to leave if we can avoid it. So when in doubt, talk with Nathan or Poppy. 
 
-If, however, you do decide it's time to move on to pastures new, you'll need to let Nathan and Eric know, and make it official over email. We'll then calculate your last day, and moneys owed. 
+If, however, you do decide it's time to move on to pastures new, you'll need to let Nathan and Poppy know, and make it official over email. We'll then calculate your last day, and moneys owed. 
 
 In your resignation email, please ensure the following:
 
